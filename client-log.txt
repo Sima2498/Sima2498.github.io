@@ -1,0 +1,1733 @@
+2022-09-21 17:08:24,439 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 17:08:24,439 --- start push Sima2498/meranie_GIS
+2022-09-21 17:08:24,804 got project info: local version v0 / server version v0
+2022-09-21 17:08:25,088 push changes:
+{'added': [{'checksum': 'c0ef59d99ea26e3af6fe20a590d9e4b2565a9a39',
+            'chunks': ['bd212158-6241-42fd-9ea8-00cb2ee081aa'],
+            'mtime': datetime.datetime(2022, 9, 21, 17, 8, 23, 591340, tzinfo=tzlocal()),
+            'path': 'meranie_GIS.qgz',
+            'size': 7392},
+           {'checksum': '7b87e556e6fb1e0b3571e0da5474ad79a5b738d6',
+            'chunks': ['bb0c1e61-1e55-44a1-a520-ee8e7ad649d5',
+                       '6981a6e9-eb6e-4381-b353-8f528fff03c0'],
+            'mtime': datetime.datetime(2022, 9, 21, 17, 8, 23, 547385, tzinfo=tzlocal()),
+            'path': 'offline_raster.tif',
+            'size': 18887033},
+           {'checksum': '6d3cdca32afed7a34138cb190e08caa731e84b47',
+            'chunks': ['9af9bf86-7649-4ba3-90f1-e5576e95f7e4'],
+            'mtime': datetime.datetime(2022, 9, 21, 17, 8, 23, 400465, tzinfo=tzlocal()),
+            'path': 'raster_geop.gpkg',
+            'size': 1462272}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2022-09-21 17:08:25,088 Making a temporary copy (full upload): raster_geop.gpkg
+2022-09-21 17:08:25,703 got transaction ID ffe94a06-c52f-4046-8297-964d11ac314e
+2022-09-21 17:08:25,704 will upload 4 items with total size 20356697
+2022-09-21 17:08:25,707 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 17:08:25,712 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-tq9kqvtl\raster_geop.gpkg part=0
+2022-09-21 17:08:25,724 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif part=1
+2022-09-21 17:08:25,727 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif part=0
+2022-09-21 17:08:26,024 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 17:08:27,068 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-tq9kqvtl\raster_geop.gpkg
+2022-09-21 17:08:29,999 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif
+2022-09-21 17:08:30,357 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif
+2022-09-21 17:08:30,409 Finishing transaction ffe94a06-c52f-4046-8297-964d11ac314e
+2022-09-21 17:08:31,081 --- push finished - new project version v1
+2022-09-21 19:17:02,492 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:17:02,501 checkpoint - return value: (0, 3, 3)
+2022-09-21 19:17:02,518 checkpoint - new size 98304 checksum 742d982f99a052ec58ddf2a16f8a1b74fb45539c
+2022-09-21 19:17:21,174 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:17:21,180 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:17:21,191 checkpoint - new size 98304 checksum da70258452e41147cd653c6518c5983f86713ea2
+2022-09-21 19:17:21,542 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:17:21,542 --- start pull Sima2498/meranie_GIS
+2022-09-21 19:17:22,052 got project info: local version v1 / server version v2
+2022-09-21 19:17:22,055 pull changes:
+{'added': [],
+ 'removed': [{'checksum': '7b87e556e6fb1e0b3571e0da5474ad79a5b738d6',
+              'mtime': '2022-09-21T15:08:25.105849Z',
+              'path': 'offline_raster.tif',
+              'size': 18887033}],
+ 'renamed': [],
+ 'updated': []}
+2022-09-21 19:17:22,055 will download 0 chunks, total size 0
+2022-09-21 19:17:22,185 finalizing pull
+2022-09-21 19:17:22,223 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:17:22,229 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:17:22,240 checkpoint - new size 98304 checksum 4758712c86808642f9ed9bbabd43559419f60c74
+2022-09-21 19:17:22,290 --- pull finished -- at version v2
+2022-09-21 19:17:22,908 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:17:22,908 --- start push Sima2498/meranie_GIS
+2022-09-21 19:17:23,157 got project info: local version v2 / server version v2
+2022-09-21 19:17:23,417 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:17:23,423 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:17:23,433 checkpoint - new size 98304 checksum 0b5cc77271f912b3e94b166f36e01b57f7ef66ea
+2022-09-21 19:17:23,444 push changes:
+{'added': [{'checksum': '2857798be81cc44c0f1bc3ac4e09f90ff88a7ad2',
+            'chunks': ['af5b5b9a-5e40-47ff-a484-8a1886a03b83'],
+            'mtime': datetime.datetime(2022, 9, 21, 17, 11, 46, tzinfo=tzlocal()),
+            'path': '11.tif',
+            'size': 371184},
+           {'checksum': '48e1d56dd17c6ce20a524375b1de6222c8ee4eb8',
+            'chunks': ['fff57560-efce-468d-b3f9-9f0fcd38a0cf'],
+            'mtime': datetime.datetime(2022, 9, 21, 17, 17, 27, 491880, tzinfo=tzlocal()),
+            'path': 'fotka.gpkg',
+            'size': 98304},
+           {'checksum': '0b5cc77271f912b3e94b166f36e01b57f7ef66ea',
+            'chunks': ['c86306f2-3b69-493e-8dd9-65d944f5443e'],
+            'mtime': datetime.datetime(2022, 9, 21, 19, 17, 22, 226811, tzinfo=tzlocal()),
+            'path': 'stromy.gpkg',
+            'size': 98304}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '489423c3e3d8a58771358157355634e01e5fcf4c',
+              'chunks': ['40efff72-cca9-48a9-8a7c-1dd011e6214d'],
+              'mtime': datetime.datetime(2022, 9, 21, 19, 17, 1, 678494, tzinfo=tzlocal()),
+              'origin_checksum': 'c0ef59d99ea26e3af6fe20a590d9e4b2565a9a39',
+              'path': 'meranie_GIS.qgz',
+              'size': 11965}]}
+2022-09-21 19:17:23,444 Making a temporary copy (full upload): fotka.gpkg
+2022-09-21 19:17:23,464 Making a temporary copy (full upload): stromy.gpkg
+2022-09-21 19:17:24,011 got transaction ID a5c2f89d-4c15-4a7c-a391-3267f71d7d42
+2022-09-21 19:17:24,012 will upload 4 items with total size 579757
+2022-09-21 19:17:24,017 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 19:17:24,018 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-mjzgoyzv\fotka.gpkg part=0
+2022-09-21 19:17:24,018 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-mjzgoyzv\stromy.gpkg part=0
+2022-09-21 19:17:24,019 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\11.tif part=0
+2022-09-21 19:17:24,337 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 19:17:24,459 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-mjzgoyzv\fotka.gpkg
+2022-09-21 19:17:24,461 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-mjzgoyzv\stromy.gpkg
+2022-09-21 19:17:24,515 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\11.tif
+2022-09-21 19:17:24,562 Finishing transaction a5c2f89d-4c15-4a7c-a391-3267f71d7d42
+2022-09-21 19:17:25,026 --- push finished - new project version v3
+2022-09-21 19:18:18,533 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:18:18,540 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:18:18,550 checkpoint - new size 98304 checksum 58397ce0e488c1e850e26e332588cbc05c69359d
+2022-09-21 19:18:25,362 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:18:25,369 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:18:25,380 checkpoint - new size 98304 checksum 6d32499da18036cff0048a08f1649ea681f073a0
+2022-09-21 19:18:25,695 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:18:25,695 --- start pull Sima2498/meranie_GIS
+2022-09-21 19:18:26,034 got project info: local version v3 / server version v3
+2022-09-21 19:18:26,035 --- pull - nothing to do (already at server version)
+2022-09-21 19:18:26,581 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:18:26,581 --- start push Sima2498/meranie_GIS
+2022-09-21 19:18:26,839 got project info: local version v3 / server version v3
+2022-09-21 19:18:27,094 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:18:27,101 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:18:27,111 checkpoint - new size 98304 checksum cc6e04c3677ab4107a379db3e17974fb1e2c1c0c
+2022-09-21 19:18:27,127 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '78b584aaab20517057a2473474e37332cb989b03',
+              'chunks': ['9f78aaac-fc9f-4b0e-a485-87ff4b075c6c'],
+              'mtime': datetime.datetime(2022, 9, 21, 19, 18, 17, 900907, tzinfo=tzlocal()),
+              'origin_checksum': '489423c3e3d8a58771358157355634e01e5fcf4c',
+              'path': 'meranie_GIS.qgz',
+              'size': 12030}]}
+2022-09-21 19:18:27,648 got transaction ID 3b7b2519-0813-4862-9d78-4a791bfd7f86
+2022-09-21 19:18:27,649 will upload 1 items with total size 12030
+2022-09-21 19:18:27,651 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 19:18:27,979 Error while pushing data: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2022-09-21 19:18:27,979 --- push aborted
+2022-09-21 19:18:27,979 user cancelled the push...
+2022-09-21 19:18:28,224 --- push cancel response: OK
+2022-09-21 19:28:21,908 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:28:21,915 checkpoint - return value: (0, 1, 1)
+2022-09-21 19:28:21,927 checkpoint - new size 98304 checksum 30ab5bc745e4bf8ac74193827396141231a44013
+2022-09-21 19:28:21,928 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:28:21,932 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:28:21,944 checkpoint - new size 98304 checksum 842e87cda0776035b70dc69ad0a03cdb7dff91a1
+2022-09-21 19:28:25,462 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:28:25,470 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:28:25,481 checkpoint - new size 98304 checksum 64f93d0e1d601a56a888408fe45dad9b4f90fc70
+2022-09-21 19:28:25,481 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:28:25,485 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:28:25,495 checkpoint - new size 98304 checksum 4f5fd674b5f73f4119a7d4b8663d46b8afa18946
+2022-09-21 19:28:25,831 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:28:25,831 --- start pull Sima2498/meranie_GIS
+2022-09-21 19:28:26,085 got project info: local version v3 / server version v3
+2022-09-21 19:28:26,085 --- pull - nothing to do (already at server version)
+2022-09-21 19:28:26,639 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:28:26,639 --- start push Sima2498/meranie_GIS
+2022-09-21 19:28:26,923 got project info: local version v3 / server version v3
+2022-09-21 19:28:27,172 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:28:27,179 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:28:27,190 checkpoint - new size 98304 checksum 942449a76e1639b47b9918dbcb8de5fba782e010
+2022-09-21 19:28:27,191 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:28:27,194 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:28:27,206 checkpoint - new size 98304 checksum 730316ac3adcdfe13b2903210fce0c53177d6b23
+2022-09-21 19:28:27,223 push changes:
+{'added': [{'checksum': '942449a76e1639b47b9918dbcb8de5fba782e010',
+            'chunks': ['9e29d7ba-ec37-4f39-b6d1-d0a8dba2a2ab'],
+            'mtime': datetime.datetime(2022, 9, 21, 19, 28, 25, 467048, tzinfo=tzlocal()),
+            'path': 'Kry.gpkg',
+            'size': 98304}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '4794831233d30263be0ecf7a6dafee049bd71aad',
+              'chunks': ['ed8d453f-8033-4356-8424-352e1ed0de9d'],
+              'mtime': datetime.datetime(2022, 9, 21, 19, 28, 21, 601357, tzinfo=tzlocal()),
+              'origin_checksum': '489423c3e3d8a58771358157355634e01e5fcf4c',
+              'path': 'meranie_GIS.qgz',
+              'size': 12991}]}
+2022-09-21 19:28:27,223 Making a temporary copy (full upload): Kry.gpkg
+2022-09-21 19:28:27,770 got transaction ID e5a25b61-972f-4ffa-93f8-7d7f26f4bb57
+2022-09-21 19:28:27,771 will upload 2 items with total size 111295
+2022-09-21 19:28:27,775 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-mj4y9y37\Kry.gpkg part=0
+2022-09-21 19:28:27,775 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 19:28:28,053 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 19:28:28,180 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-mj4y9y37\Kry.gpkg
+2022-09-21 19:28:28,199 Finishing transaction e5a25b61-972f-4ffa-93f8-7d7f26f4bb57
+2022-09-21 19:28:28,614 --- push finished - new project version v4
+2022-09-21 19:49:57,550 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 19:49:57,556 checkpoint - return value: (0, 1, 1)
+2022-09-21 19:49:57,567 checkpoint - new size 98304 checksum 9a8a3d94b04527804f5a3292b3541633a94d1741
+2022-09-21 19:49:57,567 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 19:49:57,570 checkpoint - return value: (0, 1, 1)
+2022-09-21 19:49:57,583 checkpoint - new size 98304 checksum b510c4af9adae3af8097f1da05e2b69283a1eba2
+2022-09-21 19:49:57,583 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 19:49:57,588 checkpoint - return value: (0, 1, 1)
+2022-09-21 19:49:57,600 checkpoint - new size 98304 checksum 55bf5ff3bae02e7144a7667cc3756314a3828b15
+2022-09-21 19:49:57,600 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:49:57,605 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:49:57,616 checkpoint - new size 98304 checksum 9830ea364acedaf34c9b4c76a6253129c17d4ab4
+2022-09-21 19:49:57,616 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:49:57,621 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:49:57,631 checkpoint - new size 98304 checksum f342b9a86494658af32f5501a619daccbc44485b
+2022-09-21 19:50:01,097 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 19:50:01,101 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,112 checkpoint - new size 98304 checksum 233847ef40b7117515d718fdc46edd6121cfadd5
+2022-09-21 19:50:01,112 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 19:50:01,117 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,128 checkpoint - new size 98304 checksum 9d11fe7544fed0e85cdb29a2d225a905fd1ec7bd
+2022-09-21 19:50:01,128 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 19:50:01,133 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,144 checkpoint - new size 98304 checksum 83d88a066de3a1caa67f22a7e70b2d6bc48b0451
+2022-09-21 19:50:01,144 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:50:01,149 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,160 checkpoint - new size 98304 checksum 249b234254e0fd6b9d93ceada0d272726655aba4
+2022-09-21 19:50:01,160 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:50:01,165 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,177 checkpoint - new size 98304 checksum 79c9defde228edaf4aacff4c71b8c262698240e4
+2022-09-21 19:50:01,497 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:50:01,497 --- start pull Sima2498/meranie_GIS
+2022-09-21 19:50:01,807 got project info: local version v4 / server version v6
+2022-09-21 19:50:01,809 pull changes:
+{'added': [],
+ 'removed': [{'checksum': '2857798be81cc44c0f1bc3ac4e09f90ff88a7ad2',
+              'mtime': '2022-09-21T17:17:23.385770Z',
+              'path': '11.tif',
+              'size': 371184},
+             {'checksum': 'd981638d2d26abde9304b47856ee6fe465ebd729',
+              'mtime': '2022-09-21T17:17:23.385773Z',
+              'path': 'fotka.gpkg',
+              'size': 98304}],
+ 'renamed': [],
+ 'updated': []}
+2022-09-21 19:50:01,809 will download 0 chunks, total size 0
+2022-09-21 19:50:01,922 finalizing pull
+2022-09-21 19:50:01,930 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 19:50:01,935 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,965 checkpoint - new size 98304 checksum ea3d7bda8a58da76e23f26db93998724f3129c24
+2022-09-21 19:50:01,965 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 19:50:01,973 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:01,984 checkpoint - new size 98304 checksum 0ccb1d761e9d671e6344e2ecc6fbdc67f37c2222
+2022-09-21 19:50:01,984 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 19:50:01,989 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:02,000 checkpoint - new size 98304 checksum 56885bda9ba38fc8259a29bb34dbcee2e66054d1
+2022-09-21 19:50:02,000 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:50:02,004 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:02,015 checkpoint - new size 98304 checksum bfda61a836ecf992e5cdc36bdde3487f40c5a2e1
+2022-09-21 19:50:02,016 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:50:02,020 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:02,030 checkpoint - new size 98304 checksum 25e1e8e0810b7ecabf5c0e57ff1d81c64eb005a6
+2022-09-21 19:50:02,064 --- pull finished -- at version v6
+2022-09-21 19:50:02,631 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 19:50:02,631 --- start push Sima2498/meranie_GIS
+2022-09-21 19:50:02,897 got project info: local version v6 / server version v6
+2022-09-21 19:50:03,147 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 19:50:03,154 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:03,174 checkpoint - new size 98304 checksum 9c755367d5a8c861a78bf96060c9cd93d2dd5e63
+2022-09-21 19:50:03,174 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 19:50:03,179 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:03,190 checkpoint - new size 98304 checksum 0f1ee214f81a688999c09416921dc4386ee04b27
+2022-09-21 19:50:03,190 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 19:50:03,195 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:03,205 checkpoint - new size 98304 checksum ce76d7fd9939469a53087b09fef872de0f284596
+2022-09-21 19:50:03,206 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 19:50:03,210 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:03,221 checkpoint - new size 98304 checksum f08729ed16e64e6f8563a95e24ee4be4196158af
+2022-09-21 19:50:03,221 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 19:50:03,226 checkpoint - return value: (0, 24, 24)
+2022-09-21 19:50:03,237 checkpoint - new size 98304 checksum c18923f30abe8dd6429db9d0723793d184f8044a
+2022-09-21 19:50:03,252 push changes:
+{'added': [{'checksum': '9c755367d5a8c861a78bf96060c9cd93d2dd5e63',
+            'chunks': ['dca8be14-dfab-4235-85c1-8484e6a8568e'],
+            'mtime': datetime.datetime(2022, 9, 21, 19, 50, 1, 933707, tzinfo=tzlocal()),
+            'path': 'Chodníky_curve.gpkg',
+            'size': 98304},
+           {'checksum': '0f1ee214f81a688999c09416921dc4386ee04b27',
+            'chunks': ['f7c58ae5-427b-489c-af35-182ae11ff763'],
+            'mtime': datetime.datetime(2022, 9, 21, 19, 50, 1, 969817, tzinfo=tzlocal()),
+            'path': 'Lavičky.gpkg',
+            'size': 98304},
+           {'checksum': 'ce76d7fd9939469a53087b09fef872de0f284596',
+            'chunks': ['45bd40b6-249d-4944-9d59-149de88fd48e'],
+            'mtime': datetime.datetime(2022, 9, 21, 19, 50, 1, 986119, tzinfo=tzlocal()),
+            'path': 'Smetné koše.gpkg',
+            'size': 98304}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '53725aeba9a5281358ed171a2e649423398014d1',
+              'chunks': ['4357ca4a-ed21-4e40-99ae-8d5b1d3b0cee'],
+              'mtime': datetime.datetime(2022, 9, 21, 19, 49, 56, 905885, tzinfo=tzlocal()),
+              'origin_checksum': '4794831233d30263be0ecf7a6dafee049bd71aad',
+              'path': 'meranie_GIS.qgz',
+              'size': 14374}]}
+2022-09-21 19:50:03,253 Making a temporary copy (full upload): Chodníky_curve.gpkg
+2022-09-21 19:50:03,282 Making a temporary copy (full upload): Lavičky.gpkg
+2022-09-21 19:50:03,305 Making a temporary copy (full upload): Smetné koše.gpkg
+2022-09-21 19:50:03,868 got transaction ID f4c66d53-bd68-4511-b3de-a7f8d573b6f7
+2022-09-21 19:50:03,869 will upload 4 items with total size 309286
+2022-09-21 19:50:03,873 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Lavičky.gpkg part=0
+2022-09-21 19:50:03,874 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 19:50:03,875 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Chodníky_curve.gpkg part=0
+2022-09-21 19:50:03,876 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Smetné koše.gpkg part=0
+2022-09-21 19:50:04,191 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 19:50:04,325 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Chodníky_curve.gpkg
+2022-09-21 19:50:04,340 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Smetné koše.gpkg
+2022-09-21 19:50:04,350 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-fs02v0gi\Lavičky.gpkg
+2022-09-21 19:50:04,426 Finishing transaction f4c66d53-bd68-4511-b3de-a7f8d573b6f7
+2022-09-21 19:50:04,982 --- push finished - new project version v7
+2022-09-21 20:48:48,513 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:48:48,524 checkpoint - return value: (0, 81, 81)
+2022-09-21 20:48:48,560 checkpoint - new size 98304 checksum e5edec3892fb585a1c4786ca0ecd1d7a9c92f12a
+2022-09-21 20:48:48,561 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:48:48,565 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:48,577 checkpoint - new size 98304 checksum 09ec9e08a4407bdd23d08c73070d01c864f19a3a
+2022-09-21 20:48:48,578 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:48:48,582 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:48,593 checkpoint - new size 98304 checksum 210aafcd44bb2d2731b2364a96ee45234b15892a
+2022-09-21 20:48:48,594 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:48:48,599 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:48,610 checkpoint - new size 98304 checksum 6807d47df8101cbebcbbbb347860f481f53cae4d
+2022-09-21 20:48:48,610 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:48:48,614 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:48,624 checkpoint - new size 98304 checksum 1530ee3a024c356ca20fcff715bc1cdcbf84a27c
+2022-09-21 20:48:51,034 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:48:51,040 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:51,061 checkpoint - new size 98304 checksum 7d187e2dcec4cd06e06767c870e8713fd745d545
+2022-09-21 20:48:51,061 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:48:51,066 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:51,077 checkpoint - new size 98304 checksum 1f70a288dd19f5d2e85e4e16d8c21411c1da08e8
+2022-09-21 20:48:51,077 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:48:51,081 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:51,093 checkpoint - new size 98304 checksum d59aaf2c861618862f13528fb8b3a5639b822b70
+2022-09-21 20:48:51,094 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:48:51,097 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:51,107 checkpoint - new size 98304 checksum 63d5219b0340d61df7c94feafe06734387154f79
+2022-09-21 20:48:51,108 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:48:51,111 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:51,121 checkpoint - new size 98304 checksum 4270c0589a5a3802910a2f503bd38836e62d4f5e
+2022-09-21 20:48:51,622 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:48:51,622 --- start pull Sima2498/meranie_GIS
+2022-09-21 20:48:51,876 got project info: local version v7 / server version v8
+2022-09-21 20:48:51,882 pull changes:
+{'added': [{'checksum': '78ae61b1f8918f216e8ab88df73b662e3beecb94',
+            'history': {},
+            'mtime': '2022-09-21T18:48:40.942833Z',
+            'path': '20220921_204832.jpg',
+            'size': 6335720}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '9c153a19daddadb68f9a72f65f1a9c39a11e9b25',
+              'diff': {'checksum': 'f0289ccd3090bc2a8faccd7132a34040817df7c5',
+                       'path': 'Lavičky.gpkg-diff-b8a9c510-5a2b-4619-96c4-a828f9bee152',
+                       'size': 85},
+              'diffs': ['Lavičky.gpkg-diff-b8a9c510-5a2b-4619-96c4-a828f9bee152'],
+              'history': {'v7': {'change': 'added',
+                                 'checksum': 'b5a34b2f5dab030f2f98e440586dd587919579e5',
+                                 'mtime': '2022-09-21T17:50:03.245457Z',
+                                 'path': 'Lavičky.gpkg',
+                                 'size': 98304,
+                                 'upload_file': 'C:\\Users\\simon\\AppData\\Local\\Temp\\mergin-py-client-fs02v0gi\\Lavičky.gpkg'},
+                          'v8': {'change': 'updated',
+                                 'checksum': '9c153a19daddadb68f9a72f65f1a9c39a11e9b25',
+                                 'diff': {'checksum': 'f0289ccd3090bc2a8faccd7132a34040817df7c5',
+                                          'path': 'Lavičky.gpkg-diff-b8a9c510-5a2b-4619-96c4-a828f9bee152',
+                                          'size': 85},
+                                 'mtime': '2022-09-21T18:48:40.942836Z',
+                                 'path': 'Lavičky.gpkg',
+                                 'size': 98304}},
+              'mtime': '2022-09-21T18:48:40.942836Z',
+              'origin_checksum': 'b5a34b2f5dab030f2f98e440586dd587919579e5',
+              'path': 'Lavičky.gpkg',
+              'size': 98304}]}
+2022-09-21 20:48:51,885 will download 2 chunks, total size 6335805
+2022-09-21 20:48:51,917 Downloading 20220921_204832.jpg version=v8 diff=False part=0
+2022-09-21 20:48:51,918 Downloading Lavičky.gpkg version=v8 diff=True part=0
+2022-09-21 20:48:52,208 Download finished: Lavičky.gpkg
+2022-09-21 20:48:52,284 Download finished: 20220921_204832.jpg
+2022-09-21 20:48:54,988 finalizing pull
+2022-09-21 20:48:55,022 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:48:55,029 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:55,052 checkpoint - new size 98304 checksum fd639c81a0adbdf7b64878495b0c03b47e3249e0
+2022-09-21 20:48:55,052 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:48:55,056 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:55,067 checkpoint - new size 98304 checksum e4743cd681701155196eea0939f4f5cbe63fa1e8
+2022-09-21 20:48:55,067 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:48:55,072 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:55,083 checkpoint - new size 98304 checksum 4ea0d7ff4abbe6f7c1ac7a721d70662e8cfd6010
+2022-09-21 20:48:55,084 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:48:55,088 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:55,099 checkpoint - new size 98304 checksum 0778e9e0eb79a48fa38e7e8ba7394a66db08410a
+2022-09-21 20:48:55,099 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:48:55,104 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:55,115 checkpoint - new size 98304 checksum d0256816b810fa1fc720647a809c902a79f43352
+2022-09-21 20:48:55,150 updating file without rebase: Lavičky.gpkg
+2022-09-21 20:48:55,177 update successful
+2022-09-21 20:48:55,183 --- pull finished -- at version v8
+2022-09-21 20:48:55,776 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:48:55,776 --- start push Sima2498/meranie_GIS
+2022-09-21 20:48:56,024 got project info: local version v8 / server version v8
+2022-09-21 20:48:56,306 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:48:56,312 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:56,323 checkpoint - new size 98304 checksum fcc2a727fec901e9e076afbdbd566204666f1e17
+2022-09-21 20:48:56,323 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:48:56,328 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:56,338 checkpoint - new size 98304 checksum bcf3c9778c4e0cfadb0e30569e7a25bb50a69639
+2022-09-21 20:48:56,338 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:48:56,343 checkpoint - return value: (0, 29, 29)
+2022-09-21 20:48:56,354 checkpoint - new size 98304 checksum ae878e39c1130d90f47b289b5714cfb7f4767c23
+2022-09-21 20:48:56,355 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:48:56,359 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:56,369 checkpoint - new size 98304 checksum e3cb4b367a84c7bc7df0efd1c1826998acffcf6b
+2022-09-21 20:48:56,370 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:48:56,374 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:48:56,385 checkpoint - new size 98304 checksum 8487ae89e78f5c64cb775426bc7b86ce83a42043
+2022-09-21 20:48:56,411 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'a147bc1394afbd8b8eee6a0c8fbb377f0e556dc8',
+              'chunks': ['f602dfe2-2ba5-46a9-9267-54d6f040cb54'],
+              'mtime': datetime.datetime(2022, 9, 21, 20, 47, 27, 329826, tzinfo=tzlocal()),
+              'origin_checksum': '53725aeba9a5281358ed171a2e649423398014d1',
+              'path': 'meranie_GIS.qgz',
+              'size': 14412}]}
+2022-09-21 20:48:57,037 got transaction ID cd35983f-cc55-4596-ba24-c6f8b2816741
+2022-09-21 20:48:57,038 will upload 1 items with total size 14412
+2022-09-21 20:48:57,040 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 20:48:57,366 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 20:48:57,466 Finishing transaction cd35983f-cc55-4596-ba24-c6f8b2816741
+2022-09-21 20:48:57,859 --- push finished - new project version v9
+2022-09-21 20:51:37,475 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:37,483 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:37,496 checkpoint - new size 98304 checksum e8c25e3e47ff6da1ccdd2b1b696bb8fb664e5f8b
+2022-09-21 20:51:37,496 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:37,500 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:37,510 checkpoint - new size 98304 checksum 0af2bd62e5616d34f11bb8c3253ef973ce076333
+2022-09-21 20:51:37,510 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:37,515 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:37,528 checkpoint - new size 98304 checksum 41dc42d7c372f7d377ac8e06632c1d6ac895b2ec
+2022-09-21 20:51:37,528 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:37,533 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:37,544 checkpoint - new size 98304 checksum ab2af064b6249708fac69940f3d85b69a4358c91
+2022-09-21 20:51:37,544 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:37,548 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:37,559 checkpoint - new size 98304 checksum fa75bd618c9ac7ab80e041bf85beb7b68ca333ef
+2022-09-21 20:51:39,477 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:39,483 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:39,504 checkpoint - new size 98304 checksum f9e80d7db972f423fe1b72a0c19aceed2dcc20e6
+2022-09-21 20:51:39,504 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:39,511 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:39,522 checkpoint - new size 98304 checksum ce55c38c6e9a8d2c165248e4bfb1d102d4e6a0fa
+2022-09-21 20:51:39,523 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:39,528 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:39,539 checkpoint - new size 98304 checksum fe7fa05e0a27d0253643d53e5beb6ec815ce32ed
+2022-09-21 20:51:39,539 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:39,544 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:39,555 checkpoint - new size 98304 checksum efa8e64f9a2d23079403f68932e26429a6e90e8d
+2022-09-21 20:51:39,555 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:39,560 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:39,571 checkpoint - new size 98304 checksum 3f867ea80339cb313eb87ce01e65dd5472295a13
+2022-09-21 20:51:39,899 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:51:39,899 --- start pull Sima2498/meranie_GIS
+2022-09-21 20:51:40,158 got project info: local version v9 / server version v9
+2022-09-21 20:51:40,158 --- pull - nothing to do (already at server version)
+2022-09-21 20:51:40,957 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:51:40,957 --- start push Sima2498/meranie_GIS
+2022-09-21 20:51:41,217 got project info: local version v9 / server version v9
+2022-09-21 20:51:41,521 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:41,529 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:41,550 checkpoint - new size 98304 checksum f6ef5fc2d62c3a15df2c74b00597ede1844fcd2e
+2022-09-21 20:51:41,550 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:41,555 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:41,566 checkpoint - new size 98304 checksum b98dbafa439f4a2a9536fab9c411216d38ccc910
+2022-09-21 20:51:41,566 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:41,571 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:41,584 checkpoint - new size 98304 checksum cb30d1ea8d27eecf777f659d0b390adf666ef8aa
+2022-09-21 20:51:41,584 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:41,589 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:41,601 checkpoint - new size 98304 checksum a7e3541636982a399c05ebc2f42a925deabe9beb
+2022-09-21 20:51:41,601 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:41,606 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:41,618 checkpoint - new size 98304 checksum c69343347840755e852eddb16e20b4996e9d81c8
+2022-09-21 20:51:41,643 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'bfd060d5a425a927cbdf89dcd69fa0af4a8b1609',
+              'chunks': ['c6b63ac4-51ab-4dc8-a352-c14065941b48'],
+              'mtime': datetime.datetime(2022, 9, 21, 20, 51, 37, 98004, tzinfo=tzlocal()),
+              'origin_checksum': 'a147bc1394afbd8b8eee6a0c8fbb377f0e556dc8',
+              'path': 'meranie_GIS.qgz',
+              'size': 14458}]}
+2022-09-21 20:51:42,161 Error starting transaction: Another process is running. Please try later.
+2022-09-21 20:51:42,162 --- push aborted
+2022-09-21 20:51:49,078 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:49,087 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:49,108 checkpoint - new size 98304 checksum debd08ee50e103857eda058276e129bccad9bd05
+2022-09-21 20:51:49,108 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:49,113 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:49,130 checkpoint - new size 98304 checksum 64ff98ead5013894a02a7c63b40ecc93e35fdf10
+2022-09-21 20:51:49,130 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:49,135 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:49,147 checkpoint - new size 98304 checksum e50ac86c191e37c0549ebeab732dc7068576d6a0
+2022-09-21 20:51:49,147 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:49,152 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:49,164 checkpoint - new size 98304 checksum df7c66395589c09060c5e2a773faabc44b27bd8c
+2022-09-21 20:51:49,164 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:49,169 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:49,180 checkpoint - new size 98304 checksum fbfc5ff47cb478c2eea9d2334fbe24b94c4144b9
+2022-09-21 20:51:51,111 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:51,119 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:51,140 checkpoint - new size 98304 checksum 016c9f48041a781c0e6f33242c6799a2deb9f186
+2022-09-21 20:51:51,141 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:51,146 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:51,157 checkpoint - new size 98304 checksum f8664475f51c180c2bb4e757704ef0908bb38f6d
+2022-09-21 20:51:51,157 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:51,163 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:51,175 checkpoint - new size 98304 checksum 646d0d5922c75f1be79f4f59335c2a29945d7c7f
+2022-09-21 20:51:51,175 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:51,180 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:51,191 checkpoint - new size 98304 checksum 64066b5ba819f5c9771d7603cc611f0dbae7537c
+2022-09-21 20:51:51,191 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:51,196 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:51,208 checkpoint - new size 98304 checksum 9e11d30e73df8cc2644a2b7fba4364cc266aa44f
+2022-09-21 20:51:51,532 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:51:51,532 --- start pull Sima2498/meranie_GIS
+2022-09-21 20:51:51,863 got project info: local version v9 / server version v10
+2022-09-21 20:51:51,865 pull changes:
+{'added': [{'checksum': '9fe6ec699f3f404be69e57fee8c2e8b30f756538',
+            'history': {},
+            'mtime': '2022-09-21T18:51:34.154274Z',
+            'path': '20220921_205003.jpg',
+            'size': 6689387},
+           {'checksum': '4fdded97abab3dc8678d3ba05280aa1aed4e4c1f',
+            'history': {},
+            'mtime': '2022-09-21T18:51:34.154278Z',
+            'path': '20220921_205104.jpg',
+            'size': 2496726}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'ec1617f7598ac8b3ade9fbbe17f11e5d36642ccf',
+              'diff': {'checksum': 'd85331f31372a3128346ac0e2994fc0ad0d2aa3a',
+                       'path': 'Lavičky.gpkg-diff-35c9a242-0c78-4904-8439-e903b6a5c6c1',
+                       'size': 62},
+              'diffs': ['Lavičky.gpkg-diff-35c9a242-0c78-4904-8439-e903b6a5c6c1'],
+              'history': {'v10': {'change': 'updated',
+                                  'checksum': 'ec1617f7598ac8b3ade9fbbe17f11e5d36642ccf',
+                                  'diff': {'checksum': 'd85331f31372a3128346ac0e2994fc0ad0d2aa3a',
+                                           'path': 'Lavičky.gpkg-diff-35c9a242-0c78-4904-8439-e903b6a5c6c1',
+                                           'size': 62},
+                                  'mtime': '2022-09-21T18:51:34.154279Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304}},
+              'mtime': '2022-09-21T18:51:34.154279Z',
+              'origin_checksum': '9c153a19daddadb68f9a72f65f1a9c39a11e9b25',
+              'path': 'Lavičky.gpkg',
+              'size': 98304}]}
+2022-09-21 20:51:51,866 will download 3 chunks, total size 9186175
+2022-09-21 20:51:51,867 Downloading 20220921_205003.jpg version=v10 diff=False part=0
+2022-09-21 20:51:51,899 Downloading 20220921_205104.jpg version=v10 diff=False part=0
+2022-09-21 20:51:51,900 Downloading Lavičky.gpkg version=v10 diff=True part=0
+2022-09-21 20:51:52,163 Download finished: Lavičky.gpkg
+2022-09-21 20:51:52,187 Download finished: 20220921_205104.jpg
+2022-09-21 20:51:53,216 Download finished: 20220921_205003.jpg
+2022-09-21 20:51:54,424 finalizing pull
+2022-09-21 20:51:54,473 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:54,480 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:54,501 checkpoint - new size 98304 checksum 0b86c1dc7fbb0233b830aa75922bcdd43a934ef0
+2022-09-21 20:51:54,502 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:54,506 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:54,517 checkpoint - new size 98304 checksum 81c40f228c9cf828b10100318635b2508f2264fe
+2022-09-21 20:51:54,517 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:54,522 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:54,534 checkpoint - new size 98304 checksum bd2ad2cade816c163cf29bcb1c3f2383658f3dfc
+2022-09-21 20:51:54,535 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:54,542 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:54,553 checkpoint - new size 98304 checksum ac5d1d5d4a22f24c0f55cb4da784deb3eb591ff3
+2022-09-21 20:51:54,553 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:54,558 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:54,570 checkpoint - new size 98304 checksum 4a5d0e1a02e89764f0abc2f56faf051903b280e5
+2022-09-21 20:51:54,617 updating file without rebase: Lavičky.gpkg
+2022-09-21 20:51:54,643 update successful
+2022-09-21 20:51:54,648 --- pull finished -- at version v10
+2022-09-21 20:51:55,213 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:51:55,213 --- start push Sima2498/meranie_GIS
+2022-09-21 20:51:55,461 got project info: local version v10 / server version v10
+2022-09-21 20:51:55,819 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:51:55,825 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:55,846 checkpoint - new size 98304 checksum a841385eb3e322ad8c615830dd4d89a6773229b7
+2022-09-21 20:51:55,846 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:51:55,850 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:55,861 checkpoint - new size 98304 checksum 36954f28e5f68920f72442827e4915d5a612e91a
+2022-09-21 20:51:55,861 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:51:55,865 checkpoint - return value: (0, 27, 27)
+2022-09-21 20:51:55,875 checkpoint - new size 98304 checksum 2e433c99d16c8a6165f915eb41244f8080ef5c2c
+2022-09-21 20:51:55,876 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:51:55,880 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:55,891 checkpoint - new size 98304 checksum 470703d13e2d1e595a844d652db0019319754c74
+2022-09-21 20:51:55,891 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:51:55,898 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:51:55,909 checkpoint - new size 98304 checksum f836ca43adbf66223d0821b03f02ab8849626319
+2022-09-21 20:51:55,935 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'bfd060d5a425a927cbdf89dcd69fa0af4a8b1609',
+              'chunks': ['f6b0a85f-0ae1-4e83-9c51-bc8c9fa4669c'],
+              'mtime': datetime.datetime(2022, 9, 21, 20, 51, 37, 98004, tzinfo=tzlocal()),
+              'origin_checksum': 'a147bc1394afbd8b8eee6a0c8fbb377f0e556dc8',
+              'path': 'meranie_GIS.qgz',
+              'size': 14458}]}
+2022-09-21 20:51:56,446 got transaction ID 8ae6693d-b4bb-4366-aaf9-2f0f987b4d66
+2022-09-21 20:51:56,446 will upload 1 items with total size 14458
+2022-09-21 20:51:56,449 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 20:51:56,733 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 20:51:56,777 Finishing transaction 8ae6693d-b4bb-4366-aaf9-2f0f987b4d66
+2022-09-21 20:51:57,162 --- push finished - new project version v11
+2022-09-21 20:52:55,581 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:52:55,589 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:55,599 checkpoint - new size 98304 checksum 7a657cfabdf44385cd2118fa9351f002719c4298
+2022-09-21 20:52:55,600 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:52:55,604 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:55,615 checkpoint - new size 98304 checksum 035d2cc2df25a276c2c9e30b558f6d1ece0c778f
+2022-09-21 20:52:55,615 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:52:55,619 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:55,629 checkpoint - new size 98304 checksum 3472898d187880de91a92cd75af9de6ae2ecfbc8
+2022-09-21 20:52:55,631 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:52:55,635 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:55,645 checkpoint - new size 98304 checksum 651c38ca78e60a60e26352fac3a105541c7278f6
+2022-09-21 20:52:55,646 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:52:55,650 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:55,662 checkpoint - new size 98304 checksum b35708357a4ac796668f3d72e18758091fde9ca9
+2022-09-21 20:52:57,697 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:52:57,704 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:57,719 checkpoint - new size 98304 checksum dcc295e351ad6e845cd8bf1460b42ee4dcf9cc97
+2022-09-21 20:52:57,719 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:52:57,724 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:57,735 checkpoint - new size 98304 checksum a0cb797d16d957eabb2505e363f92ff156344dfa
+2022-09-21 20:52:57,735 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:52:57,739 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:57,750 checkpoint - new size 98304 checksum 62a4bc081cdd0925391fc0d6a1ffaeb2cd080137
+2022-09-21 20:52:57,750 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:52:57,755 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:57,765 checkpoint - new size 98304 checksum 1b60e4a147788462cd8161918795d4ebc3b7e68a
+2022-09-21 20:52:57,765 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:52:57,769 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:57,779 checkpoint - new size 98304 checksum ef65874c61325914ddeedd8385a7efb4b4c5a883
+2022-09-21 20:52:58,104 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:52:58,104 --- start pull Sima2498/meranie_GIS
+2022-09-21 20:52:58,388 got project info: local version v11 / server version v11
+2022-09-21 20:52:58,388 --- pull - nothing to do (already at server version)
+2022-09-21 20:52:58,955 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:52:58,956 --- start push Sima2498/meranie_GIS
+2022-09-21 20:52:59,202 got project info: local version v11 / server version v11
+2022-09-21 20:52:59,476 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:52:59,482 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:59,505 checkpoint - new size 98304 checksum a49396c700fa90f3c57a0860b8afe0ef3f149d1f
+2022-09-21 20:52:59,505 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:52:59,510 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:59,520 checkpoint - new size 98304 checksum 9355806cf45871d69070bb7319e6f83ff5d267c1
+2022-09-21 20:52:59,520 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:52:59,524 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:59,537 checkpoint - new size 98304 checksum 602f14519bd6588f71f9a97856f5804667d10cbb
+2022-09-21 20:52:59,537 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:52:59,542 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:59,554 checkpoint - new size 98304 checksum ae1e861b10166e9627ef9148cfe5340642218cb5
+2022-09-21 20:52:59,555 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:52:59,562 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:52:59,574 checkpoint - new size 98304 checksum 880eb3668c53e58d33e9e016584c12733ce4f75c
+2022-09-21 20:52:59,601 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'd6f8a6633507c9f5d0770b3440b5e7dc28633a03',
+              'chunks': ['b91109e3-934e-4383-9ec5-d6e2d7db6e3e'],
+              'mtime': datetime.datetime(2022, 9, 21, 20, 52, 54, 128209, tzinfo=tzlocal()),
+              'origin_checksum': 'bfd060d5a425a927cbdf89dcd69fa0af4a8b1609',
+              'path': 'meranie_GIS.qgz',
+              'size': 14458}]}
+2022-09-21 20:53:00,119 got transaction ID d3b827c1-2d07-4645-a6c0-f818e942d534
+2022-09-21 20:53:00,120 will upload 1 items with total size 14458
+2022-09-21 20:53:00,122 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-21 20:53:00,400 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-21 20:53:00,451 Finishing transaction d3b827c1-2d07-4645-a6c0-f818e942d534
+2022-09-21 20:53:00,839 --- push finished - new project version v12
+2022-09-21 20:53:42,363 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:53:42,371 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:42,393 checkpoint - new size 98304 checksum e7af4d7cc25ab8c1aa1261be06f3b110818dda96
+2022-09-21 20:53:42,394 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:53:42,397 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:42,407 checkpoint - new size 98304 checksum b7648e164272912672a070de5e42729cfa6a32cd
+2022-09-21 20:53:42,408 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:53:42,411 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:42,423 checkpoint - new size 98304 checksum 9c4461e70ea8cf9e787d8a4acbe63cb5f65dc084
+2022-09-21 20:53:42,423 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:53:42,427 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:42,438 checkpoint - new size 98304 checksum 59ef72b3f54d83105cc0b71767317b6e654c7225
+2022-09-21 20:53:42,438 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:53:42,444 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:42,455 checkpoint - new size 98304 checksum 3845a2a372df496d138cda86b891ab026d12741b
+2022-09-21 20:53:46,673 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:53:46,680 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:46,701 checkpoint - new size 98304 checksum 36bf782838d5f4ab84dae0a76ba4258e99bf1ae7
+2022-09-21 20:53:46,701 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:53:46,705 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:46,716 checkpoint - new size 98304 checksum b5c4a6c23aab6a37d5aa0764b39eb5f0701340b1
+2022-09-21 20:53:46,716 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:53:46,721 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:46,733 checkpoint - new size 98304 checksum 0f97597fc7ff5830493ef2d55adfd6b92dddfc61
+2022-09-21 20:53:46,733 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:53:46,738 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:46,749 checkpoint - new size 98304 checksum 6878ae7e394e042423074e1000fa915e34e1549a
+2022-09-21 20:53:46,749 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:53:46,754 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:53:46,766 checkpoint - new size 98304 checksum d8d7d67b7caaf1e0f1ef126b7fb6c4185b737b8d
+2022-09-21 20:53:47,090 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:53:47,090 --- start pull Sima2498/meranie_GIS
+2022-09-21 20:53:47,689 got project info: local version v12 / server version v14
+2022-09-21 20:53:47,693 pull changes:
+{'added': [{'checksum': '550f6bbe22203e1731cb645854a18c4dbc46d7e9',
+            'history': {},
+            'mtime': '2022-09-21T18:53:04.318305Z',
+            'path': '20220921_205215.jpg',
+            'size': 5398429},
+           {'checksum': '7110d6111da0be93a12fa6f9136baaa10394971e',
+            'history': {},
+            'mtime': '2022-09-21T18:53:35.672931Z',
+            'path': '20220921_205324.jpg',
+            'size': 2469553}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '1c0257d3859a8b63ccf3105ae2c555532aecc39b',
+              'diff': {'checksum': '011b20f2d50589ccb93dc6d18ac7855fd92d9ea3',
+                       'path': 'Lavičky.gpkg-diff-7d102cb4-7385-4586-83e1-890d5b22edcc',
+                       'size': 85},
+              'diffs': ['Lavičky.gpkg-diff-7d102cb4-7385-4586-83e1-890d5b22edcc'],
+              'history': {'v14': {'change': 'updated',
+                                  'checksum': '1c0257d3859a8b63ccf3105ae2c555532aecc39b',
+                                  'diff': {'checksum': '011b20f2d50589ccb93dc6d18ac7855fd92d9ea3',
+                                           'path': 'Lavičky.gpkg-diff-7d102cb4-7385-4586-83e1-890d5b22edcc',
+                                           'size': 85},
+                                  'mtime': '2022-09-21T18:53:35.672935Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304}},
+              'mtime': '2022-09-21T18:53:35.672935Z',
+              'origin_checksum': 'ec1617f7598ac8b3ade9fbbe17f11e5d36642ccf',
+              'path': 'Lavičky.gpkg',
+              'size': 98304}]}
+2022-09-21 20:53:47,693 will download 3 chunks, total size 7868067
+2022-09-21 20:53:47,694 Downloading 20220921_205215.jpg version=v14 diff=False part=0
+2022-09-21 20:53:47,695 Downloading 20220921_205324.jpg version=v14 diff=False part=0
+2022-09-21 20:53:47,696 Downloading Lavičky.gpkg version=v14 diff=True part=0
+2022-09-21 20:53:47,996 Download finished: Lavičky.gpkg
+2022-09-21 20:53:48,043 Download finished: 20220921_205215.jpg
+2022-09-21 20:53:48,079 Download finished: 20220921_205324.jpg
+2022-09-21 20:54:00,632 finalizing pull
+2022-09-21 20:54:00,696 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:54:00,702 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:00,723 checkpoint - new size 98304 checksum 55850198ec2424b88c9a9bdc2df3ce75cf36833a
+2022-09-21 20:54:00,723 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:54:00,731 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:00,742 checkpoint - new size 98304 checksum fd08e86e24adbdb1b1cd1d0fdb4ea156f1553378
+2022-09-21 20:54:00,742 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:54:00,746 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:00,758 checkpoint - new size 98304 checksum baa6982c7cd42c6d1b38b12e073e8a9351f876d2
+2022-09-21 20:54:00,758 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:54:00,763 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:00,774 checkpoint - new size 98304 checksum f4c6904b2329cbeeb4707da40142b0672a3421a6
+2022-09-21 20:54:00,774 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:54:00,778 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:00,790 checkpoint - new size 98304 checksum d92ee4153d3771a4e11d0e730ca4aaf53d099e9d
+2022-09-21 20:54:00,852 updating file without rebase: Lavičky.gpkg
+2022-09-21 20:54:00,876 update successful
+2022-09-21 20:54:00,884 --- pull finished -- at version v14
+2022-09-21 20:54:01,200 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-21 20:54:01,200 --- start push Sima2498/meranie_GIS
+2022-09-21 20:54:03,501 got project info: local version v14 / server version v14
+2022-09-21 20:54:03,813 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-21 20:54:03,818 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:03,839 checkpoint - new size 98304 checksum 8fdc36f8035d888d5c49fd9197392039010a5470
+2022-09-21 20:54:03,839 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-21 20:54:03,843 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:03,854 checkpoint - new size 98304 checksum 2553ec32a007ef63e8cae64c74e91bdd583ce425
+2022-09-21 20:54:03,854 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-21 20:54:03,858 checkpoint - return value: (0, 29, 29)
+2022-09-21 20:54:03,868 checkpoint - new size 98304 checksum 581a21b385639bc6680d0d73a3beef7fb1afd97a
+2022-09-21 20:54:03,869 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-21 20:54:03,873 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:03,884 checkpoint - new size 98304 checksum d80dd1204283b20f18b9e44d940c8467856840e9
+2022-09-21 20:54:03,884 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-21 20:54:03,889 checkpoint - return value: (0, 24, 24)
+2022-09-21 20:54:03,900 checkpoint - new size 98304 checksum 4474d3634cc876c7501a07a3bd52d362d9e3d09a
+2022-09-21 20:54:03,925 push changes:
+{'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2022-09-21 20:54:04,470 --- push Sima2498/meranie_GIS - nothing to do
+2022-09-22 13:48:23,330 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-22 13:48:23,331 checkpoint - return value: (0, 0, 0)
+2022-09-22 13:48:23,342 checkpoint - new size 98304 checksum 905deeec4e4ab55ca4e22a76d3d775033e7e9e05
+2022-09-22 13:48:23,343 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-22 13:48:23,344 checkpoint - return value: (0, 0, 0)
+2022-09-22 13:48:23,355 checkpoint - new size 98304 checksum 6dd1492fdc19f63f1c74d9c936a75d103f41e439
+2022-09-22 13:48:23,356 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-22 13:48:23,357 checkpoint - return value: (0, 0, 0)
+2022-09-22 13:48:23,369 checkpoint - new size 98304 checksum 8c2df3efc9dd91f357e449cb378ff632fc51b5da
+2022-09-22 13:48:23,369 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-22 13:48:23,370 checkpoint - return value: (0, 0, 0)
+2022-09-22 13:48:23,381 checkpoint - new size 98304 checksum 18dd98df181e20189dbe126612b260d8ad26c438
+2022-09-22 13:48:23,382 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-22 13:48:23,383 checkpoint - return value: (0, 0, 0)
+2022-09-22 13:48:23,394 checkpoint - new size 98304 checksum a0d14b6ed58143108692db46f205a69277e18572
+2022-09-22 13:48:26,122 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-22 13:48:26,131 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:26,154 checkpoint - new size 98304 checksum d62ef9a7348b975d5c9262ab83229ce44e5c82c8
+2022-09-22 13:48:26,154 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-22 13:48:26,162 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:26,175 checkpoint - new size 98304 checksum f8ef924529f06fead2f0a3b12acfc6909f19f03d
+2022-09-22 13:48:26,176 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-22 13:48:26,181 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:26,193 checkpoint - new size 98304 checksum a1c2cf5a748776f7998255ef8ea61fa201562801
+2022-09-22 13:48:26,194 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-22 13:48:26,200 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:26,213 checkpoint - new size 98304 checksum c82475d3f78545346a70d17b74cfc01861687a70
+2022-09-22 13:48:26,213 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-22 13:48:26,219 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:26,232 checkpoint - new size 98304 checksum 7a1c28147d2b58067bc0ad201ae7dbbf0d00c38c
+2022-09-22 13:48:26,597 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-22 13:48:26,597 --- start pull Sima2498/meranie_GIS
+2022-09-22 13:48:26,935 got project info: local version v14 / server version v21
+2022-09-22 13:48:26,940 pull changes:
+{'added': [{'checksum': '55aeff09d253f9625dcb1c7fce15113c9c02babf',
+            'history': {},
+            'mtime': '2022-09-22T11:43:17.515581Z',
+            'path': '20220922_133909.jpg',
+            'size': 6242856},
+           {'checksum': 'a0d647b2d0224cd83b46698e60b88f5095332f98',
+            'history': {},
+            'mtime': '2022-09-22T11:44:07.004093Z',
+            'path': '20220922_134359.jpg',
+            'size': 7269458}],
+ 'removed': [{'checksum': '78ae61b1f8918f216e8ab88df73b662e3beecb94',
+              'history': {},
+              'mtime': '2022-09-21T18:48:40.942833Z',
+              'path': '20220921_204832.jpg',
+              'size': 6335720},
+             {'checksum': '9fe6ec699f3f404be69e57fee8c2e8b30f756538',
+              'history': {},
+              'mtime': '2022-09-21T18:51:34.154274Z',
+              'path': '20220921_205003.jpg',
+              'size': 6689387},
+             {'checksum': '4fdded97abab3dc8678d3ba05280aa1aed4e4c1f',
+              'history': {},
+              'mtime': '2022-09-21T18:51:34.154278Z',
+              'path': '20220921_205104.jpg',
+              'size': 2496726},
+             {'checksum': '550f6bbe22203e1731cb645854a18c4dbc46d7e9',
+              'history': {},
+              'mtime': '2022-09-21T18:53:04.318305Z',
+              'path': '20220921_205215.jpg',
+              'size': 5398429,
+              'version': 'v14'},
+             {'checksum': '7110d6111da0be93a12fa6f9136baaa10394971e',
+              'history': {},
+              'mtime': '2022-09-21T18:53:35.672931Z',
+              'path': '20220921_205324.jpg',
+              'size': 2469553,
+              'version': 'v14'}],
+ 'renamed': [],
+ 'updated': [{'checksum': '1fcb287193c949c742b99496f0794c538dd583a7',
+              'diff': {'checksum': '0ae6fb243d21eb0e8c141d6925fc24da22c2f0df',
+                       'path': 'Lavičky.gpkg-diff-f9fc85a2-9aa4-4263-ab59-0318cae45132',
+                       'size': 85},
+              'diffs': ['Lavičky.gpkg-diff-b8400dd6-247a-48d3-b670-003710541c39',
+                        'Lavičky.gpkg-diff-f9fc85a2-9aa4-4263-ab59-0318cae45132'],
+              'history': {'v14': {'change': 'updated',
+                                  'checksum': '1c0257d3859a8b63ccf3105ae2c555532aecc39b',
+                                  'diff': {'checksum': '011b20f2d50589ccb93dc6d18ac7855fd92d9ea3',
+                                           'path': 'Lavičky.gpkg-diff-7d102cb4-7385-4586-83e1-890d5b22edcc',
+                                           'size': 85},
+                                  'mtime': '2022-09-21T18:53:35.672935Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v20': {'change': 'updated',
+                                  'checksum': '33d282c19835dcf44f46d815e717af7c32442c75',
+                                  'diff': {'checksum': '90bde0c81c16f3aae116f3e06bd12abae929f01f',
+                                           'path': 'Lavičky.gpkg-diff-b8400dd6-247a-48d3-b670-003710541c39',
+                                           'size': 85},
+                                  'mtime': '2022-09-22T11:43:17.515584Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v21': {'change': 'updated',
+                                  'checksum': '1fcb287193c949c742b99496f0794c538dd583a7',
+                                  'diff': {'checksum': '0ae6fb243d21eb0e8c141d6925fc24da22c2f0df',
+                                           'path': 'Lavičky.gpkg-diff-f9fc85a2-9aa4-4263-ab59-0318cae45132',
+                                           'size': 85},
+                                  'mtime': '2022-09-22T11:44:07.004098Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304}},
+              'mtime': '2022-09-22T11:44:07.004098Z',
+              'origin_checksum': '1c0257d3859a8b63ccf3105ae2c555532aecc39b',
+              'path': 'Lavičky.gpkg',
+              'size': 98304}]}
+2022-09-22 13:48:26,941 will download 4 chunks, total size 13512484
+2022-09-22 13:48:26,942 Downloading 20220922_133909.jpg version=v21 diff=False part=0
+2022-09-22 13:48:26,943 Downloading 20220922_134359.jpg version=v21 diff=False part=0
+2022-09-22 13:48:26,944 Downloading Lavičky.gpkg version=v20 diff=True part=0
+2022-09-22 13:48:26,945 Downloading Lavičky.gpkg version=v21 diff=True part=0
+2022-09-22 13:48:27,297 Download finished: Lavičky.gpkg
+2022-09-22 13:48:27,306 Download finished: 20220922_134359.jpg
+2022-09-22 13:48:27,341 Download finished: Lavičky.gpkg
+2022-09-22 13:48:27,352 Download finished: 20220922_133909.jpg
+2022-09-22 13:48:33,727 finalizing pull
+2022-09-22 13:48:33,808 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-22 13:48:33,815 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:33,838 checkpoint - new size 98304 checksum 7a1cd43df3d897edbe3dd3ade318dcaef9cb4539
+2022-09-22 13:48:33,839 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-22 13:48:33,844 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:33,857 checkpoint - new size 98304 checksum b3c262852cf898c50563bf34738d9757521210ff
+2022-09-22 13:48:33,857 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-22 13:48:33,865 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:33,878 checkpoint - new size 98304 checksum 9022bb3e5dd29238a4743365c703e849e3363dd8
+2022-09-22 13:48:33,878 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-22 13:48:33,883 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:33,896 checkpoint - new size 98304 checksum 38a393095c229489dc963cd058a418d8fe78a270
+2022-09-22 13:48:33,896 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-22 13:48:33,904 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:33,916 checkpoint - new size 98304 checksum 3efb8a6a069f37ac747896091c40d760e8c710b8
+2022-09-22 13:48:33,968 File to be removed locally doesn't exist: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\20220921_204832.jpg
+2022-09-22 13:48:33,968 File to be removed locally doesn't exist: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\20220921_205003.jpg
+2022-09-22 13:48:33,969 File to be removed locally doesn't exist: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\20220921_205104.jpg
+2022-09-22 13:48:33,970 File to be removed locally doesn't exist: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\20220921_205215.jpg
+2022-09-22 13:48:33,970 File to be removed locally doesn't exist: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\20220921_205324.jpg
+2022-09-22 13:48:33,971 updating file without rebase: Lavičky.gpkg
+2022-09-22 13:48:34,005 update successful
+2022-09-22 13:48:34,011 --- pull finished -- at version v21
+2022-09-22 13:48:34,712 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-22 13:48:34,712 --- start push Sima2498/meranie_GIS
+2022-09-22 13:48:35,000 got project info: local version v21 / server version v21
+2022-09-22 13:48:35,305 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-22 13:48:35,312 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:35,335 checkpoint - new size 98304 checksum 133f31ce16694637ab46f0b4e3abf43ec1b1059d
+2022-09-22 13:48:35,336 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-22 13:48:35,340 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:35,353 checkpoint - new size 98304 checksum 0a89b258df417b5d582c441d91579776d9694fcd
+2022-09-22 13:48:35,353 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-22 13:48:35,359 checkpoint - return value: (0, 29, 29)
+2022-09-22 13:48:35,371 checkpoint - new size 98304 checksum 02b58028966272bc2e0d1d1fd96d85eeacf222fe
+2022-09-22 13:48:35,371 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-22 13:48:35,377 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:35,390 checkpoint - new size 98304 checksum 650ecf61f30722121cdbb36bdecd46c038622733
+2022-09-22 13:48:35,390 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-22 13:48:35,395 checkpoint - return value: (0, 24, 24)
+2022-09-22 13:48:35,408 checkpoint - new size 98304 checksum 47a35f54393b7b5142e7cadacb3e1947b946c560
+2022-09-22 13:48:35,459 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '44754b25f4973fd0483b544e8b6ba96570457f20',
+              'chunks': ['27f7e24e-7cae-4147-b47c-905d0674d765'],
+              'mtime': datetime.datetime(2022, 9, 22, 13, 48, 21, 652988, tzinfo=tzlocal()),
+              'origin_checksum': 'd6f8a6633507c9f5d0770b3440b5e7dc28633a03',
+              'path': 'meranie_GIS.qgz',
+              'size': 14820}]}
+2022-09-22 13:48:36,387 got transaction ID b1ff1090-6537-4fca-b85c-ca3f16f5b3bf
+2022-09-22 13:48:36,388 will upload 1 items with total size 14820
+2022-09-22 13:48:36,391 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-22 13:48:36,777 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-22 13:48:36,836 Finishing transaction b1ff1090-6537-4fca-b85c-ca3f16f5b3bf
+2022-09-22 13:48:37,201 --- push finished - new project version v22
+2022-09-28 09:03:15,114 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:03:15,127 checkpoint - return value: (0, 0, 0)
+2022-09-28 09:03:15,138 checkpoint - new size 98304 checksum 6d018242c228381917fe76ae41fc05eeeafb4066
+2022-09-28 09:03:15,138 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:03:15,140 checkpoint - return value: (0, 0, 0)
+2022-09-28 09:03:15,151 checkpoint - new size 98304 checksum 899e06ae860a86213cce63b56d42a3549f888516
+2022-09-28 09:03:15,152 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:03:15,154 checkpoint - return value: (0, 0, 0)
+2022-09-28 09:03:15,165 checkpoint - new size 98304 checksum 413a5211b68013bfb94a2444916d2a99e960197e
+2022-09-28 09:03:15,165 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:03:15,167 checkpoint - return value: (0, 0, 0)
+2022-09-28 09:03:15,177 checkpoint - new size 98304 checksum 447fc2a233fc03e2cf43e04d672f7dedb018ff17
+2022-09-28 09:03:15,178 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:03:15,179 checkpoint - return value: (0, 0, 0)
+2022-09-28 09:03:15,189 checkpoint - new size 98304 checksum ed0d42092404c46e8be2935d4d2c9504c00870cb
+2022-09-28 09:03:18,356 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:03:18,359 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:18,379 checkpoint - new size 98304 checksum 7ba08d44f9a515f29f7f5c62e5bb3c503bec44ba
+2022-09-28 09:03:18,380 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:03:18,384 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:18,393 checkpoint - new size 98304 checksum 8327088afce842318cd5e8a9ff4f20ae60960595
+2022-09-28 09:03:18,394 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:03:18,398 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:18,408 checkpoint - new size 98304 checksum 028a9c51def006db45a737ed430ac8a4b28f3d6d
+2022-09-28 09:03:18,408 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:03:18,412 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:18,422 checkpoint - new size 98304 checksum 6313987cc76076df0dbb3265589b8153f2aed806
+2022-09-28 09:03:18,423 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:03:18,427 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:18,437 checkpoint - new size 98304 checksum 96c0bb92e7740f8773e4b49675a538b79cf1c317
+2022-09-28 09:03:18,817 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 09:03:18,817 --- start pull Sima2498/meranie_GIS
+2022-09-28 09:03:19,203 got project info: local version v22 / server version v41
+2022-09-28 09:03:19,228 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '1b3fbbb32c47378331113aab2aa168a351e90684',
+              'diff': {'checksum': '94b9c60371554a5da32d741f7a91e4640bc89f8d',
+                       'path': 'stromy.gpkg-diff-83cafbc6-6465-43db-ad06-d9705cc804e4',
+                       'size': 5835},
+              'diffs': ['stromy.gpkg-diff-855ad5da-f628-4b37-8c39-9b3d16750c4a',
+                        'stromy.gpkg-diff-4347087e-c3f1-42d6-8806-c0fc5508db2c',
+                        'stromy.gpkg-diff-f5f59a10-f869-43fe-a5db-a87e1979d664',
+                        'stromy.gpkg-diff-3f34ccdd-5576-49f9-af2e-10bcb1f3f890',
+                        'stromy.gpkg-diff-b3420977-1033-4d61-b5d3-66bf60157266',
+                        'stromy.gpkg-diff-073033f4-bfd9-41f3-b5eb-b5bb2db62440',
+                        'stromy.gpkg-diff-db106a43-0b26-4afc-8329-48d0a1216ea7',
+                        'stromy.gpkg-diff-7bf0a201-4f7e-4be7-b030-ae0b6c6b18f8',
+                        'stromy.gpkg-diff-07ed69ac-139e-460a-9edb-0760eed82009',
+                        'stromy.gpkg-diff-4d276a1f-961f-4c5f-81b0-408bcf82bfbb',
+                        'stromy.gpkg-diff-7f46ba6c-b61d-442e-a422-23ed44b8674a',
+                        'stromy.gpkg-diff-403d4be6-eafa-421c-8cad-eea8b54b814e',
+                        'stromy.gpkg-diff-83cafbc6-6465-43db-ad06-d9705cc804e4'],
+              'history': {'v23': {'change': 'updated',
+                                  'checksum': '76dcd4c10996109001488cf57d8fe6ac69dbea77',
+                                  'diff': {'checksum': 'a4ff482b800202d93272e6ef2df0599f35400ed9',
+                                           'path': 'stromy.gpkg-diff-855ad5da-f628-4b37-8c39-9b3d16750c4a',
+                                           'size': 100},
+                                  'mtime': '2022-09-26T08:55:55.721374Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 98304},
+                          'v24': {'change': 'updated',
+                                  'checksum': 'a70ab5d5e6fdc49c5dda8c9044747dad9f2d0a1f',
+                                  'diff': {'checksum': '466c230e11087561ee7dec3e79e17818f6d5946a',
+                                           'path': 'stromy.gpkg-diff-4347087e-c3f1-42d6-8806-c0fc5508db2c',
+                                           'size': 424},
+                                  'mtime': '2022-09-26T09:14:46.312619Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 98304},
+                          'v25': {'change': 'updated',
+                                  'checksum': '582372313170613c8b37796e7c5a402f997950d3',
+                                  'diff': {'checksum': '313ee45d3a5919bb2bccd7028bec8971b2f63c87',
+                                           'path': 'stromy.gpkg-diff-f5f59a10-f869-43fe-a5db-a87e1979d664',
+                                           'size': 89},
+                                  'mtime': '2022-09-26T09:17:10.889346Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 98304},
+                          'v26': {'change': 'updated',
+                                  'checksum': '9d3fc1a33c7c77046557b243e0bc758cdefe7214',
+                                  'diff': {'checksum': '6e49113c1407123c09e8b7789a7b7d7dc1818791',
+                                           'path': 'stromy.gpkg-diff-3f34ccdd-5576-49f9-af2e-10bcb1f3f890',
+                                           'size': 4330},
+                                  'mtime': '2022-09-26T10:46:11.101215Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 106496},
+                          'v27': {'change': 'updated',
+                                  'checksum': '69b05dad5c841e5192c3ca40c80df6ffc4fc9dbe',
+                                  'diff': {'checksum': '4f2667d144837cc738b73059003490cc0e469d97',
+                                           'path': 'stromy.gpkg-diff-b3420977-1033-4d61-b5d3-66bf60157266',
+                                           'size': 103},
+                                  'mtime': '2022-09-26T10:47:42.079778Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 106496},
+                          'v28': {'change': 'updated',
+                                  'checksum': 'dd513c92d36c9bf666119add649e5a15d09b0d5e',
+                                  'diff': {'checksum': '58b364ad87694a3e08f93061b6a1ccd4b3eb9714',
+                                           'path': 'stromy.gpkg-diff-073033f4-bfd9-41f3-b5eb-b5bb2db62440',
+                                           'size': 4030},
+                                  'mtime': '2022-09-26T13:37:34.871940Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 114688},
+                          'v29': {'change': 'updated',
+                                  'checksum': '73be41f2d94b7f412e3aa47a73c7c79f4ebc62b3',
+                                  'diff': {'checksum': '38e9603576746c47df641e69c5a954317fe0aeb9',
+                                           'path': 'stromy.gpkg-diff-db106a43-0b26-4afc-8329-48d0a1216ea7',
+                                           'size': 110},
+                                  'mtime': '2022-09-26T13:40:22.735092Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 114688},
+                          'v30': {'change': 'updated',
+                                  'checksum': '9e9d6a4395e4f4a3912e14b2e57fa2cf3e897946',
+                                  'diff': {'checksum': 'f45745f241157b3c60c5be401be41541a020a4b4',
+                                           'path': 'stromy.gpkg-diff-7bf0a201-4f7e-4be7-b030-ae0b6c6b18f8',
+                                           'size': 5259},
+                                  'mtime': '2022-09-26T15:16:38.239528Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 122880},
+                          'v31': {'change': 'updated',
+                                  'checksum': 'f95d264686f30120b553a0533de6b6ebcc54e98c',
+                                  'diff': {'checksum': '36110301a7b699e75e6b6af97b109b27556eb6bf',
+                                           'path': 'stromy.gpkg-diff-07ed69ac-139e-460a-9edb-0760eed82009',
+                                           'size': 654},
+                                  'mtime': '2022-09-26T15:29:09.174863Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 122880},
+                          'v33': {'change': 'updated',
+                                  'checksum': '33d68769da1548d3ab503107bd33d61c85189161',
+                                  'diff': {'checksum': '65732e7a5af20e9639caa7f2313cf345089c4f35',
+                                           'path': 'stromy.gpkg-diff-4d276a1f-961f-4c5f-81b0-408bcf82bfbb',
+                                           'size': 8880},
+                                  'mtime': '2022-09-27T09:00:29.290754Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 135168},
+                          'v34': {'change': 'updated',
+                                  'checksum': '4bd0b7fdb80afd7dd24e7ac0de32f8b2c7b74171',
+                                  'diff': {'checksum': 'd59f289e54910d5a9689648ef7c7bdda4b429667',
+                                           'path': 'stromy.gpkg-diff-7f46ba6c-b61d-442e-a422-23ed44b8674a',
+                                           'size': 199},
+                                  'mtime': '2022-09-27T09:12:27.228915Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 135168},
+                          'v38': {'change': 'updated',
+                                  'checksum': 'f217a5cb1eb29df90fef090e18964f9a5dc4bb3c',
+                                  'diff': {'checksum': '6a48df3679e384bc626b86efa90f11132fe60f1c',
+                                           'path': 'stromy.gpkg-diff-403d4be6-eafa-421c-8cad-eea8b54b814e',
+                                           'size': 5376},
+                                  'mtime': '2022-09-27T15:18:00.310515Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 143360},
+                          'v41': {'change': 'updated',
+                                  'checksum': '1b3fbbb32c47378331113aab2aa168a351e90684',
+                                  'diff': {'checksum': '94b9c60371554a5da32d741f7a91e4640bc89f8d',
+                                           'path': 'stromy.gpkg-diff-83cafbc6-6465-43db-ad06-d9705cc804e4',
+                                           'size': 5835},
+                                  'mtime': '2022-09-27T17:09:10.575790Z',
+                                  'path': 'stromy.gpkg',
+                                  'size': 151552}},
+              'mtime': '2022-09-27T17:09:10.575790Z',
+              'origin_checksum': '09b9704662860c63772d72eace0e81eb93764c8e',
+              'path': 'stromy.gpkg',
+              'size': 151552},
+             {'checksum': '7a119d63f68fdc73c994179a3724cd49cd6ef3ea',
+              'diff': {'checksum': '7d8948bd94bdaf511e0105fa023d6f764091a791',
+                       'path': 'Kry.gpkg-diff-c0a724d4-dc24-493e-baeb-565d6f91b327',
+                       'size': 4140},
+              'diffs': ['Kry.gpkg-diff-bee4ee9f-3c39-4d5e-946d-00168b0146d6',
+                        'Kry.gpkg-diff-9a1d4b3f-a22d-41c9-9715-68431dfc99fd',
+                        'Kry.gpkg-diff-37dfce5a-04c0-4e7d-a47c-2aedaaa5b8ac',
+                        'Kry.gpkg-diff-278c53c7-f197-477e-bbc7-09d724be4e76',
+                        'Kry.gpkg-diff-1b9f5044-1450-4fb4-aeac-498f00d66d44',
+                        'Kry.gpkg-diff-1410bc22-9324-49c8-b906-11a3dd8ff726',
+                        'Kry.gpkg-diff-ee2b41c8-b837-41fd-a7ac-a95e830c9000',
+                        'Kry.gpkg-diff-d69bb275-38c8-49a7-9351-a41ba9a79e8b',
+                        'Kry.gpkg-diff-cebfa547-492b-4857-9170-9977da7666d4',
+                        'Kry.gpkg-diff-268b0c28-ecf2-4c6e-9498-4a8012947167',
+                        'Kry.gpkg-diff-83715108-74ea-4d20-8783-bbbc8bb3d1cc',
+                        'Kry.gpkg-diff-c0a724d4-dc24-493e-baeb-565d6f91b327'],
+              'history': {'v24': {'change': 'updated',
+                                  'checksum': '5bb49f1d1a2504aa737d2408e87c98ce943642af',
+                                  'diff': {'checksum': '51656f89414a0fface18902d1761deb7600456f8',
+                                           'path': 'Kry.gpkg-diff-bee4ee9f-3c39-4d5e-946d-00168b0146d6',
+                                           'size': 158},
+                                  'mtime': '2022-09-26T09:14:46.312614Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 98304},
+                          'v25': {'change': 'updated',
+                                  'checksum': '367b67598d535560e723780430a59aef9ba58edf',
+                                  'diff': {'checksum': '411318b250a866836df85a8b2a0193890cd4f977',
+                                           'path': 'Kry.gpkg-diff-9a1d4b3f-a22d-41c9-9715-68431dfc99fd',
+                                           'size': 86},
+                                  'mtime': '2022-09-26T09:17:10.889342Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 98304},
+                          'v26': {'change': 'updated',
+                                  'checksum': 'fc402ceb2fd9abcdece633246dc73428133cbda4',
+                                  'diff': {'checksum': '0004e793b751e8e8b97e8e2fef192f8ae14e99c1',
+                                           'path': 'Kry.gpkg-diff-37dfce5a-04c0-4e7d-a47c-2aedaaa5b8ac',
+                                           'size': 2319},
+                                  'mtime': '2022-09-26T10:46:11.101212Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 98304},
+                          'v28': {'change': 'updated',
+                                  'checksum': 'a4af0357650eed71708097fa23f56025982eec93',
+                                  'diff': {'checksum': '88268abc2ee28225efed1417c3a2f909b667ff5a',
+                                           'path': 'Kry.gpkg-diff-278c53c7-f197-477e-bbc7-09d724be4e76',
+                                           'size': 1521},
+                                  'mtime': '2022-09-26T13:37:34.871941Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 98304},
+                          'v30': {'change': 'updated',
+                                  'checksum': '7e883b090619b464315b5ead62a46524fbb4c655',
+                                  'diff': {'checksum': '85a90220da591daaabb413b295d02977e97d9564',
+                                           'path': 'Kry.gpkg-diff-1b9f5044-1450-4fb4-aeac-498f00d66d44',
+                                           'size': 7100},
+                                  'mtime': '2022-09-26T15:16:38.239532Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 118784},
+                          'v31': {'change': 'updated',
+                                  'checksum': '091c45949cf61ee8855af2ad116d837a1f424274',
+                                  'diff': {'checksum': '1f1361f3077a738b256db7de82230121af302626',
+                                           'path': 'Kry.gpkg-diff-1410bc22-9324-49c8-b906-11a3dd8ff726',
+                                           'size': 241},
+                                  'mtime': '2022-09-26T15:29:09.174866Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 118784},
+                          'v32': {'change': 'updated',
+                                  'checksum': '407619491bcc367e05a0d3b52e7401ff5f120ba7',
+                                  'diff': {'checksum': 'de3f6b70deef3ade318580659c88aa95acf1b070',
+                                           'path': 'Kry.gpkg-diff-ee2b41c8-b837-41fd-a7ac-a95e830c9000',
+                                           'size': 151},
+                                  'mtime': '2022-09-26T15:36:26.801318Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 118784},
+                          'v33': {'change': 'updated',
+                                  'checksum': '2f80840ad45140ec4bc03516f7a76ec4d0e2a556',
+                                  'diff': {'checksum': 'e068dcc17175bd0d7e1906066a2630fa5363e5f2',
+                                           'path': 'Kry.gpkg-diff-d69bb275-38c8-49a7-9351-a41ba9a79e8b',
+                                           'size': 9078},
+                                  'mtime': '2022-09-27T09:00:29.290750Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 131072},
+                          'v35': {'change': 'updated',
+                                  'checksum': 'a4e86dfb5b36ba9f300a6ed123e95a76ab6a0549',
+                                  'diff': {'checksum': '3ab55c986e8bad51a446f809330ac697e7b87daf',
+                                           'path': 'Kry.gpkg-diff-cebfa547-492b-4857-9170-9977da7666d4',
+                                           'size': 1228},
+                                  'mtime': '2022-09-27T09:22:42.782376Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 131072},
+                          'v38': {'change': 'updated',
+                                  'checksum': '5411fcdb8229a049ebdc921f1cefdb8dffab0f49',
+                                  'diff': {'checksum': '313c0c3972af7fcd14e4be4aa716982e705e8176',
+                                           'path': 'Kry.gpkg-diff-268b0c28-ecf2-4c6e-9498-4a8012947167',
+                                           'size': 7136},
+                                  'mtime': '2022-09-27T15:18:00.310519Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 143360},
+                          'v39': {'change': 'updated',
+                                  'checksum': '077f94eab4e0bfef911ca65cba7e699b9de5d09c',
+                                  'diff': {'checksum': '7098748ae2a6ad6bb4cd2b878c9a12055db4ba16',
+                                           'path': 'Kry.gpkg-diff-83715108-74ea-4d20-8783-bbbc8bb3d1cc',
+                                           'size': 164},
+                                  'mtime': '2022-09-27T15:43:31.094265Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 143360},
+                          'v41': {'change': 'updated',
+                                  'checksum': '7a119d63f68fdc73c994179a3724cd49cd6ef3ea',
+                                  'diff': {'checksum': '7d8948bd94bdaf511e0105fa023d6f764091a791',
+                                           'path': 'Kry.gpkg-diff-c0a724d4-dc24-493e-baeb-565d6f91b327',
+                                           'size': 4140},
+                                  'mtime': '2022-09-27T17:09:10.575786Z',
+                                  'path': 'Kry.gpkg',
+                                  'size': 151552}},
+              'mtime': '2022-09-27T17:09:10.575786Z',
+              'origin_checksum': 'c5f57a9de87e2861b44d70e4b074d0e7c0152b1f',
+              'path': 'Kry.gpkg',
+              'size': 151552},
+             {'checksum': '37c1805ba4bacbd87aead08a49bc317118adfba5',
+              'diff': {'checksum': '20796fa4e4544484db37a7ce377fa069f0d0b510',
+                       'path': 'Chodníky_curve.gpkg-diff-60a2f089-a98f-4ce4-b301-bd6e4697ac59',
+                       'size': 149},
+              'diffs': ['Chodníky_curve.gpkg-diff-366285f3-8971-44e2-a76e-623ed4acfac2',
+                        'Chodníky_curve.gpkg-diff-69495dc6-b755-40e4-8a92-c108cd891a42',
+                        'Chodníky_curve.gpkg-diff-03134c6d-6cf1-472a-a6cb-cc82d236b90c',
+                        'Chodníky_curve.gpkg-diff-ec3423b4-8cf1-4c33-8452-9875e74d32b9',
+                        'Chodníky_curve.gpkg-diff-5a8d5bdc-83bd-4332-a2d2-e43b1a222ae4',
+                        'Chodníky_curve.gpkg-diff-8d10dea5-f3c8-4af1-a504-30ed10eca820',
+                        'Chodníky_curve.gpkg-diff-60a2f089-a98f-4ce4-b301-bd6e4697ac59'],
+              'history': {'v32': {'change': 'updated',
+                                  'checksum': '48a202cd2d6722b9484e5f49ae834ef2450fa134',
+                                  'diff': {'checksum': '086036fa40ff2f55e63683300868469a0c4a92c0',
+                                           'path': 'Chodníky_curve.gpkg-diff-366285f3-8971-44e2-a76e-623ed4acfac2',
+                                           'size': 486},
+                                  'mtime': '2022-09-26T15:36:26.801314Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 98304},
+                          'v35': {'change': 'updated',
+                                  'checksum': '4a29dc18a6fd9283eabb04f7e349516a5ac388b5',
+                                  'diff': {'checksum': '12536046c68587918b88e22a1b3dd0a0cd2bad50',
+                                           'path': 'Chodníky_curve.gpkg-diff-69495dc6-b755-40e4-8a92-c108cd891a42',
+                                           'size': 502},
+                                  'mtime': '2022-09-27T09:22:42.782380Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 98304},
+                          'v36': {'change': 'updated',
+                                  'checksum': '4c58974007d8a1affc4e96ed73d5602bb2b2a427',
+                                  'diff': {'checksum': 'f7e050116c89fc6696ab81d525fd3dfa0807132e',
+                                           'path': 'Chodníky_curve.gpkg-diff-03134c6d-6cf1-472a-a6cb-cc82d236b90c',
+                                           'size': 1103},
+                                  'mtime': '2022-09-27T09:29:36.133472Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 98304},
+                          'v37': {'change': 'updated',
+                                  'checksum': 'a04e4adec16653224a74386be7eeaf750889d3f9',
+                                  'diff': {'checksum': '6ad3f328ed86fb9399868b7169d90030448e2a67',
+                                           'path': 'Chodníky_curve.gpkg-diff-ec3423b4-8cf1-4c33-8452-9875e74d32b9',
+                                           'size': 149},
+                                  'mtime': '2022-09-27T10:03:22.230518Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 98304},
+                          'v38': {'change': 'updated',
+                                  'checksum': '0bcf62e21ee7551184ef1cbeec6a8bd5476cc073',
+                                  'diff': {'checksum': '0616f230ec4d596f900ce31b097a476cb0d6d6b1',
+                                           'path': 'Chodníky_curve.gpkg-diff-5a8d5bdc-83bd-4332-a2d2-e43b1a222ae4',
+                                           'size': 404},
+                                  'mtime': '2022-09-27T15:18:00.310519Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 98304},
+                          'v39': {'change': 'updated',
+                                  'checksum': '0477770b0e0687cdd9eb42bd64a5cb58a2c32525',
+                                  'diff': {'checksum': 'dc25edf60c19566a8146e7acb9bc2d1513e7f858',
+                                           'path': 'Chodníky_curve.gpkg-diff-8d10dea5-f3c8-4af1-a504-30ed10eca820',
+                                           'size': 2418},
+                                  'mtime': '2022-09-27T15:43:31.094265Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 106496},
+                          'v40': {'change': 'updated',
+                                  'checksum': '37c1805ba4bacbd87aead08a49bc317118adfba5',
+                                  'diff': {'checksum': '20796fa4e4544484db37a7ce377fa069f0d0b510',
+                                           'path': 'Chodníky_curve.gpkg-diff-60a2f089-a98f-4ce4-b301-bd6e4697ac59',
+                                           'size': 149},
+                                  'mtime': '2022-09-27T15:45:38.284955Z',
+                                  'path': 'Chodníky_curve.gpkg',
+                                  'size': 106496}},
+              'mtime': '2022-09-27T15:45:38.284955Z',
+              'origin_checksum': 'd44a758032c6708e568f5466a0c3b2f2a6ba1db9',
+              'path': 'Chodníky_curve.gpkg',
+              'size': 106496},
+             {'checksum': 'f1a72c3dc864bd8f813aafa29aba19bf2e0c8911',
+              'diff': {'checksum': 'c90564d470c6401f0830409893df0f54bf3c3861',
+                       'path': 'Lavičky.gpkg-diff-687c201a-fe46-433b-804d-3055e8ba3dff',
+                       'size': 88},
+              'diffs': ['Lavičky.gpkg-diff-87bc7514-9408-470a-a663-9df968f92eb4',
+                        'Lavičky.gpkg-diff-87795ba2-ef9f-421c-8d68-91521b3fec79',
+                        'Lavičky.gpkg-diff-63f89aef-ea57-41b5-9654-6aec4cc09b23',
+                        'Lavičky.gpkg-diff-502dfe06-7f14-414f-9aa3-4d73bdaa3bb1',
+                        'Lavičky.gpkg-diff-908eec04-0440-482b-b14e-b4b6c5af0139',
+                        'Lavičky.gpkg-diff-7138a55d-f6fa-4606-b70b-7efc2c9cb1c8',
+                        'Lavičky.gpkg-diff-687c201a-fe46-433b-804d-3055e8ba3dff'],
+              'history': {'v28': {'change': 'updated',
+                                  'checksum': '5b993361a4afbb2d62c3d6d55797ebb90ed6533f',
+                                  'diff': {'checksum': 'ecc09ba7352b6833d93f5b7b70d1a91d7b3e3452',
+                                           'path': 'Lavičky.gpkg-diff-87bc7514-9408-470a-a663-9df968f92eb4',
+                                           'size': 88},
+                                  'mtime': '2022-09-26T13:37:34.871940Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v30': {'change': 'updated',
+                                  'checksum': '427739e98734bbd3916395923c1747928cb62e2f',
+                                  'diff': {'checksum': '2bb8805475f60e65db943420879eef2cce702b19',
+                                           'path': 'Lavičky.gpkg-diff-87795ba2-ef9f-421c-8d68-91521b3fec79',
+                                           'size': 87},
+                                  'mtime': '2022-09-26T15:16:38.239531Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v31': {'change': 'updated',
+                                  'checksum': '7e02d301939350e1e3e81abb3c7e89f911b7ef77',
+                                  'diff': {'checksum': '933a42591abb716b829b8e0718279051b41f99a9',
+                                           'path': 'Lavičky.gpkg-diff-63f89aef-ea57-41b5-9654-6aec4cc09b23',
+                                           'size': 88},
+                                  'mtime': '2022-09-26T15:29:09.174866Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v32': {'change': 'updated',
+                                  'checksum': 'f048e08b01d605fde3a564654f2f0f73e0001310',
+                                  'diff': {'checksum': 'dd6559c574e19e8860f9037d8b32481b9f1d6484',
+                                           'path': 'Lavičky.gpkg-diff-502dfe06-7f14-414f-9aa3-4d73bdaa3bb1',
+                                           'size': 336},
+                                  'mtime': '2022-09-26T15:36:26.801317Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v33': {'change': 'updated',
+                                  'checksum': '19bf68e4e9d908c9535faed6a5d469765aa40b7f',
+                                  'diff': {'checksum': '66e667bc2cc2f21f8323beae51a11d93ee7f24fc',
+                                           'path': 'Lavičky.gpkg-diff-908eec04-0440-482b-b14e-b4b6c5af0139',
+                                           'size': 297},
+                                  'mtime': '2022-09-27T09:00:29.290755Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v38': {'change': 'updated',
+                                  'checksum': 'e4ff8e8d6b1222d3b0985012bb5b2be925e70cdc',
+                                  'diff': {'checksum': '53e517724d0db19bebc13284fd1e39759dfeb9fc',
+                                           'path': 'Lavičky.gpkg-diff-7138a55d-f6fa-4606-b70b-7efc2c9cb1c8',
+                                           'size': 85},
+                                  'mtime': '2022-09-27T15:18:00.310518Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304},
+                          'v39': {'change': 'updated',
+                                  'checksum': 'f1a72c3dc864bd8f813aafa29aba19bf2e0c8911',
+                                  'diff': {'checksum': 'c90564d470c6401f0830409893df0f54bf3c3861',
+                                           'path': 'Lavičky.gpkg-diff-687c201a-fe46-433b-804d-3055e8ba3dff',
+                                           'size': 88},
+                                  'mtime': '2022-09-27T15:43:31.094262Z',
+                                  'path': 'Lavičky.gpkg',
+                                  'size': 98304}},
+              'mtime': '2022-09-27T15:43:31.094262Z',
+              'origin_checksum': '1fcb287193c949c742b99496f0794c538dd583a7',
+              'path': 'Lavičky.gpkg',
+              'size': 98304},
+             {'checksum': '731cb77402555962afb99e68df93759d17b4e96d',
+              'diff': {'checksum': '69c75a5bfecac809a266d81304972ae043303c20',
+                       'path': 'Smetné '
+                               'koše.gpkg-diff-f6a1aed3-e24f-435f-ac34-c0d6f2077988',
+                       'size': 86},
+              'diffs': ['Smetné '
+                        'koše.gpkg-diff-5e2e8a63-f36e-4916-8b62-08909903217a',
+                        'Smetné '
+                        'koše.gpkg-diff-f6a1aed3-e24f-435f-ac34-c0d6f2077988'],
+              'history': {'v28': {'change': 'updated',
+                                  'checksum': '205512a1dfb4efd9536b2914e677c15457ffad9f',
+                                  'diff': {'checksum': '678aaa9daf31793d5231e8e4ce637ce2883294c0',
+                                           'path': 'Smetné '
+                                                   'koše.gpkg-diff-5e2e8a63-f36e-4916-8b62-08909903217a',
+                                           'size': 234},
+                                  'mtime': '2022-09-26T13:37:34.871936Z',
+                                  'path': 'Smetné koše.gpkg',
+                                  'size': 98304},
+                          'v33': {'change': 'updated',
+                                  'checksum': '731cb77402555962afb99e68df93759d17b4e96d',
+                                  'diff': {'checksum': '69c75a5bfecac809a266d81304972ae043303c20',
+                                           'path': 'Smetné '
+                                                   'koše.gpkg-diff-f6a1aed3-e24f-435f-ac34-c0d6f2077988',
+                                           'size': 86},
+                                  'mtime': '2022-09-27T09:00:29.290754Z',
+                                  'path': 'Smetné koše.gpkg',
+                                  'size': 98304}},
+              'mtime': '2022-09-27T09:00:29.290754Z',
+              'origin_checksum': '1441acce037a0727b11e9d945c0992ae7c5ea9ab',
+              'path': 'Smetné koše.gpkg',
+              'size': 98304}]}
+2022-09-28 09:03:19,241 will download 41 chunks, total size 75311
+2022-09-28 09:03:19,241 Downloading stromy.gpkg version=v23 diff=True part=0
+2022-09-28 09:03:19,242 Downloading stromy.gpkg version=v24 diff=True part=0
+2022-09-28 09:03:19,243 Downloading stromy.gpkg version=v25 diff=True part=0
+2022-09-28 09:03:19,244 Downloading stromy.gpkg version=v26 diff=True part=0
+2022-09-28 09:03:19,570 Download finished: stromy.gpkg
+2022-09-28 09:03:19,571 Downloading stromy.gpkg version=v27 diff=True part=0
+2022-09-28 09:03:19,587 Download finished: stromy.gpkg
+2022-09-28 09:03:19,587 Download finished: stromy.gpkg
+2022-09-28 09:03:19,588 Downloading stromy.gpkg version=v28 diff=True part=0
+2022-09-28 09:03:19,588 Downloading stromy.gpkg version=v29 diff=True part=0
+2022-09-28 09:03:19,609 Download finished: stromy.gpkg
+2022-09-28 09:03:19,611 Downloading stromy.gpkg version=v30 diff=True part=0
+2022-09-28 09:03:19,892 Download finished: stromy.gpkg
+2022-09-28 09:03:19,893 Downloading stromy.gpkg version=v31 diff=True part=0
+2022-09-28 09:03:19,905 Download finished: stromy.gpkg
+2022-09-28 09:03:19,907 Downloading stromy.gpkg version=v33 diff=True part=0
+2022-09-28 09:03:19,912 Download finished: stromy.gpkg
+2022-09-28 09:03:19,913 Downloading stromy.gpkg version=v34 diff=True part=0
+2022-09-28 09:03:19,938 Download finished: stromy.gpkg
+2022-09-28 09:03:19,939 Downloading stromy.gpkg version=v38 diff=True part=0
+2022-09-28 09:03:20,186 Download finished: stromy.gpkg
+2022-09-28 09:03:20,187 Downloading stromy.gpkg version=v41 diff=True part=0
+2022-09-28 09:03:20,216 Download finished: stromy.gpkg
+2022-09-28 09:03:20,217 Downloading Kry.gpkg version=v24 diff=True part=0
+2022-09-28 09:03:20,239 Download finished: stromy.gpkg
+2022-09-28 09:03:20,240 Downloading Kry.gpkg version=v25 diff=True part=0
+2022-09-28 09:03:20,241 Download finished: stromy.gpkg
+2022-09-28 09:03:20,242 Downloading Kry.gpkg version=v26 diff=True part=0
+2022-09-28 09:03:20,466 Download finished: stromy.gpkg
+2022-09-28 09:03:20,467 Downloading Kry.gpkg version=v28 diff=True part=0
+2022-09-28 09:03:20,536 Download finished: Kry.gpkg
+2022-09-28 09:03:20,537 Downloading Kry.gpkg version=v30 diff=True part=0
+2022-09-28 09:03:20,544 Download finished: Kry.gpkg
+2022-09-28 09:03:20,545 Downloading Kry.gpkg version=v31 diff=True part=0
+2022-09-28 09:03:20,574 Download finished: Kry.gpkg
+2022-09-28 09:03:20,575 Downloading Kry.gpkg version=v32 diff=True part=0
+2022-09-28 09:03:20,734 Download finished: Kry.gpkg
+2022-09-28 09:03:20,735 Downloading Kry.gpkg version=v33 diff=True part=0
+2022-09-28 09:03:20,823 Download finished: Kry.gpkg
+2022-09-28 09:03:20,824 Downloading Kry.gpkg version=v35 diff=True part=0
+2022-09-28 09:03:20,841 Download finished: Kry.gpkg
+2022-09-28 09:03:20,843 Downloading Kry.gpkg version=v38 diff=True part=0
+2022-09-28 09:03:20,843 Download finished: Kry.gpkg
+2022-09-28 09:03:20,845 Downloading Kry.gpkg version=v39 diff=True part=0
+2022-09-28 09:03:21,034 Download finished: Kry.gpkg
+2022-09-28 09:03:21,036 Downloading Kry.gpkg version=v41 diff=True part=0
+2022-09-28 09:03:21,090 Download finished: Kry.gpkg
+2022-09-28 09:03:21,091 Downloading Chodníky_curve.gpkg version=v32 diff=True part=0
+2022-09-28 09:03:21,122 Download finished: Kry.gpkg
+2022-09-28 09:03:21,123 Downloading Chodníky_curve.gpkg version=v35 diff=True part=0
+2022-09-28 09:03:21,129 Download finished: Kry.gpkg
+2022-09-28 09:03:21,130 Downloading Chodníky_curve.gpkg version=v36 diff=True part=0
+2022-09-28 09:03:21,316 Download finished: Kry.gpkg
+2022-09-28 09:03:21,318 Downloading Chodníky_curve.gpkg version=v37 diff=True part=0
+2022-09-28 09:03:21,360 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,361 Downloading Chodníky_curve.gpkg version=v38 diff=True part=0
+2022-09-28 09:03:21,395 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,397 Downloading Chodníky_curve.gpkg version=v39 diff=True part=0
+2022-09-28 09:03:21,414 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,416 Downloading Chodníky_curve.gpkg version=v40 diff=True part=0
+2022-09-28 09:03:21,577 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,579 Downloading Lavičky.gpkg version=v28 diff=True part=0
+2022-09-28 09:03:21,637 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,638 Downloading Lavičky.gpkg version=v30 diff=True part=0
+2022-09-28 09:03:21,669 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,671 Downloading Lavičky.gpkg version=v31 diff=True part=0
+2022-09-28 09:03:21,683 Download finished: Chodníky_curve.gpkg
+2022-09-28 09:03:21,685 Downloading Lavičky.gpkg version=v32 diff=True part=0
+2022-09-28 09:03:21,858 Download finished: Lavičky.gpkg
+2022-09-28 09:03:21,859 Downloading Lavičky.gpkg version=v33 diff=True part=0
+2022-09-28 09:03:21,922 Download finished: Lavičky.gpkg
+2022-09-28 09:03:21,923 Downloading Lavičky.gpkg version=v38 diff=True part=0
+2022-09-28 09:03:21,975 Download finished: Lavičky.gpkg
+2022-09-28 09:03:21,976 Downloading Lavičky.gpkg version=v39 diff=True part=0
+2022-09-28 09:03:21,980 Download finished: Lavičky.gpkg
+2022-09-28 09:03:21,981 Downloading Smetné koše.gpkg version=v28 diff=True part=0
+2022-09-28 09:03:22,114 Download finished: Lavičky.gpkg
+2022-09-28 09:03:22,115 Downloading Smetné koše.gpkg version=v33 diff=True part=0
+2022-09-28 09:03:22,185 Download finished: Lavičky.gpkg
+2022-09-28 09:03:22,238 Download finished: Lavičky.gpkg
+2022-09-28 09:03:22,245 Download finished: Smetné koše.gpkg
+2022-09-28 09:03:22,386 Download finished: Smetné koše.gpkg
+2022-09-28 09:03:22,424 finalizing pull
+2022-09-28 09:03:23,678 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:03:23,684 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:23,707 checkpoint - new size 98304 checksum af72f51f2c31d68e977e51bb7d466cd539c8f378
+2022-09-28 09:03:23,707 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:03:23,714 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:23,725 checkpoint - new size 98304 checksum a04e94586f52ea332405c5817489c1b26e6aa8c1
+2022-09-28 09:03:23,726 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:03:23,733 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:23,746 checkpoint - new size 98304 checksum 3d58196644bdab33f89c7ea6904bdf2347325c4d
+2022-09-28 09:03:23,746 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:03:23,751 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:23,764 checkpoint - new size 98304 checksum c27cdc45486a3724095fdb9ffb1b5cf5b0bd5657
+2022-09-28 09:03:23,765 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:03:23,771 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:03:23,782 checkpoint - new size 98304 checksum b9131d267314ab16e3faed1c462f1c6235458806
+2022-09-28 09:03:23,883 updating file without rebase: stromy.gpkg
+2022-09-28 09:03:23,931 update successful
+2022-09-28 09:03:23,932 updating file without rebase: Kry.gpkg
+2022-09-28 09:03:23,979 update successful
+2022-09-28 09:03:23,980 updating file without rebase: Chodníky_curve.gpkg
+2022-09-28 09:03:24,010 update successful
+2022-09-28 09:03:24,011 updating file without rebase: Lavičky.gpkg
+2022-09-28 09:03:24,085 update successful
+2022-09-28 09:03:24,086 updating file without rebase: Smetné koše.gpkg
+2022-09-28 09:03:24,118 update successful
+2022-09-28 09:03:24,128 --- pull finished -- at version v41
+2022-09-28 09:03:24,720 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 09:03:24,720 --- start push Sima2498/meranie_GIS
+2022-09-28 09:03:24,973 got project info: local version v41 / server version v41
+2022-09-28 09:03:25,285 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:03:25,292 checkpoint - return value: (0, 32, 32)
+2022-09-28 09:03:25,316 checkpoint - new size 106496 checksum 7f79ea5e3853d903bbce00ac2bae76495590058c
+2022-09-28 09:03:25,317 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:03:25,321 checkpoint - return value: (0, 44, 44)
+2022-09-28 09:03:25,332 checkpoint - new size 151552 checksum ce6a9a833fb767aec17ae048d7dd2709dd4413eb
+2022-09-28 09:03:25,333 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:03:25,339 checkpoint - return value: (0, 29, 29)
+2022-09-28 09:03:25,349 checkpoint - new size 98304 checksum b11d978519d35541ef4835abc26ab0cdf0666fe1
+2022-09-28 09:03:25,349 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:03:25,354 checkpoint - return value: (0, 29, 29)
+2022-09-28 09:03:25,366 checkpoint - new size 98304 checksum e0faea5726a9f2733fef821ba41d302107c60b60
+2022-09-28 09:03:25,366 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:03:25,373 checkpoint - return value: (0, 44, 44)
+2022-09-28 09:03:25,383 checkpoint - new size 151552 checksum fbeb8a3fd66608cf2e9ec76b8583adac04bdf3a4
+2022-09-28 09:03:25,419 push changes:
+{'added': [{'checksum': '7b87e556e6fb1e0b3571e0da5474ad79a5b738d6',
+            'chunks': ['46c04975-f937-40b3-8386-560cc7a83a8f',
+                       '93f04d07-0aa4-4c9b-aa80-5002c8fc9780'],
+            'mtime': datetime.datetime(2022, 9, 21, 12, 56, 35, 287991, tzinfo=tzlocal()),
+            'path': 'offline_raster.tif',
+            'size': 18887033}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2022-09-28 09:03:25,969 got transaction ID 08e4c956-27d7-4e2f-b31b-2cbdb2078953
+2022-09-28 09:03:25,969 will upload 2 items with total size 18887033
+2022-09-28 09:03:25,986 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif part=1
+2022-09-28 09:03:25,987 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif part=0
+2022-09-28 09:03:28,495 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif
+2022-09-28 09:03:28,546 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\offline_raster.tif
+2022-09-28 09:03:28,625 Finishing transaction 08e4c956-27d7-4e2f-b31b-2cbdb2078953
+2022-09-28 09:03:29,109 --- push finished - new project version v42
+2022-09-28 09:37:36,988 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:37:36,996 checkpoint - return value: (0, 26, 26)
+2022-09-28 09:37:37,017 checkpoint - new size 106496 checksum fda22a469dd03f2265ce45e37388d9e55d096a67
+2022-09-28 09:37:37,017 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:37:37,022 checkpoint - return value: (0, 37, 37)
+2022-09-28 09:37:37,033 checkpoint - new size 151552 checksum 4e7741ea2f10bff1e15c847cb0f69fdc0ac6b2a6
+2022-09-28 09:37:37,033 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:37:37,038 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:37,049 checkpoint - new size 98304 checksum 4644bfb22bc9215d671ef95eefcbcdcb09b85a0c
+2022-09-28 09:37:37,049 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:37:37,054 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:37,063 checkpoint - new size 98304 checksum 9551674b86c55942f62e5d7ec4384ae19236fa92
+2022-09-28 09:37:37,064 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:37:37,068 checkpoint - return value: (0, 60, 60)
+2022-09-28 09:37:37,080 checkpoint - new size 159744 checksum b229e221a4abca3faa31999528bd480cfed172ac
+2022-09-28 09:37:37,134 GEODIFF: GeoPackage Table schemas are not the same for table: stromy
+2022-09-28 09:37:37,134 failed to create changeset for stromy.gpkg
+2022-09-28 09:37:37,449 Mergin Maps plugin: Unable to detect changes for stromy.gpkg
+2022-09-28 09:37:43,513 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:37:43,520 checkpoint - return value: (0, 26, 26)
+2022-09-28 09:37:43,541 checkpoint - new size 106496 checksum d6f306ce07fe2e05e467a3a645ffd41b53f4e122
+2022-09-28 09:37:43,542 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:37:43,546 checkpoint - return value: (0, 37, 37)
+2022-09-28 09:37:43,556 checkpoint - new size 151552 checksum 325e9beacffdbe4c46f8a2af6356830c21cd33fa
+2022-09-28 09:37:43,556 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:37:43,561 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:43,571 checkpoint - new size 98304 checksum 34412a1e657a4be32722ecb25f6903b11b85fa82
+2022-09-28 09:37:43,571 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:37:43,576 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:43,587 checkpoint - new size 98304 checksum af428e81a1263497fe7a9916c8287ac9f83f8f5c
+2022-09-28 09:37:43,587 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:37:43,592 checkpoint - return value: (0, 37, 37)
+2022-09-28 09:37:43,603 checkpoint - new size 151552 checksum 059fa1bfb3f85719278264a1023f28681c9ed64b
+2022-09-28 09:37:43,629 GEODIFF: GeoPackage Table schemas are not the same for table: stromy
+2022-09-28 09:37:43,629 failed to create changeset for stromy.gpkg
+2022-09-28 09:37:43,927 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 09:37:43,927 --- start pull Sima2498/meranie_GIS
+2022-09-28 09:37:44,300 got project info: local version v42 / server version v42
+2022-09-28 09:37:44,300 --- pull - nothing to do (already at server version)
+2022-09-28 09:37:44,861 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 09:37:44,861 --- start push Sima2498/meranie_GIS
+2022-09-28 09:37:45,152 got project info: local version v42 / server version v42
+2022-09-28 09:37:45,471 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 09:37:45,479 checkpoint - return value: (0, 26, 26)
+2022-09-28 09:37:45,499 checkpoint - new size 106496 checksum 2e1609d9cfa7cc26aa2dcc40d0234908983af6d0
+2022-09-28 09:37:45,499 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 09:37:45,504 checkpoint - return value: (0, 37, 37)
+2022-09-28 09:37:45,515 checkpoint - new size 151552 checksum 8e5363857fcf7cf830396fc268ece16d575fc0dd
+2022-09-28 09:37:45,515 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 09:37:45,520 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:45,531 checkpoint - new size 98304 checksum 014c4cde1893a3762ac4c2d552921ad1dd589c38
+2022-09-28 09:37:45,532 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 09:37:45,536 checkpoint - return value: (0, 24, 24)
+2022-09-28 09:37:45,547 checkpoint - new size 98304 checksum ddca25474dfc6e43a1ab8601a31a850a2edee00a
+2022-09-28 09:37:45,548 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 09:37:45,552 checkpoint - return value: (0, 37, 37)
+2022-09-28 09:37:45,567 checkpoint - new size 151552 checksum 8410684484baf4db9726abdd54fd4a12e0f2a69a
+2022-09-28 09:37:45,594 GEODIFF: GeoPackage Table schemas are not the same for table: stromy
+2022-09-28 09:37:45,594 failed to create changeset for stromy.gpkg
+2022-09-28 09:37:45,594 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '6fcce900a8f704f853b85b8234b01c5d403dbc1b',
+              'chunks': ['143cff25-086e-43ef-83c8-a3fda4e8ca4b'],
+              'mtime': datetime.datetime(2022, 9, 28, 9, 37, 36, 573066, tzinfo=tzlocal()),
+              'origin_checksum': '44754b25f4973fd0483b544e8b6ba96570457f20',
+              'path': 'meranie_GIS.qgz',
+              'size': 14887},
+             {'checksum': '8410684484baf4db9726abdd54fd4a12e0f2a69a',
+              'chunks': ['78f406cc-5245-49e4-aa3a-910669087a80'],
+              'mtime': datetime.datetime(2022, 9, 28, 9, 37, 43, 588683, tzinfo=tzlocal()),
+              'origin_checksum': '1b3fbbb32c47378331113aab2aa168a351e90684',
+              'path': 'stromy.gpkg',
+              'size': 151552}]}
+2022-09-28 09:37:45,594 Making a temporary copy (full upload): stromy.gpkg
+2022-09-28 09:37:46,161 got transaction ID 1fbbe35a-3752-475d-8057-91dd1cb61c7d
+2022-09-28 09:37:46,162 will upload 2 items with total size 166439
+2022-09-28 09:37:46,165 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-28 09:37:46,167 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-3d52w79_\stromy.gpkg part=0
+2022-09-28 09:37:46,546 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-28 09:37:47,398 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-3d52w79_\stromy.gpkg
+2022-09-28 09:37:47,465 Finishing transaction 1fbbe35a-3752-475d-8057-91dd1cb61c7d
+2022-09-28 09:37:48,933 updating basefile (copy) for: stromy.gpkg
+2022-09-28 09:37:48,934 GEODIFF: MakeCopySqlite: Removed existing destination database: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\.mergin\stromy.gpkg
+2022-09-28 09:37:48,950 --- push finished - new project version v43
+2022-09-28 10:02:59,591 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 10:02:59,603 checkpoint - return value: (0, 26, 26)
+2022-09-28 10:02:59,627 checkpoint - new size 106496 checksum 2edba09edb39e33e3c577c8269369d8860e4b371
+2022-09-28 10:02:59,627 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 10:02:59,635 checkpoint - return value: (0, 78, 78)
+2022-09-28 10:02:59,650 checkpoint - new size 192512 checksum 35a01c80a4805f35fa830b7987635d2a52bc9d33
+2022-09-28 10:02:59,650 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 10:02:59,656 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:02:59,670 checkpoint - new size 98304 checksum 46c41630318c7a24f0dd9be7cae52ecfa2a0ca1f
+2022-09-28 10:02:59,670 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 10:02:59,676 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:02:59,688 checkpoint - new size 98304 checksum 99584acd2abdd8ed6d2c0fe9c17d5a8c72b23fc2
+2022-09-28 10:02:59,690 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 10:02:59,696 checkpoint - return value: (0, 37, 37)
+2022-09-28 10:02:59,711 checkpoint - new size 151552 checksum 5e7fd3d57afed060e065e81257add98c135d6e9a
+2022-09-28 10:02:59,718 GEODIFF: GeoPackage Table schemas are not the same for table: Kry
+2022-09-28 10:02:59,718 failed to create changeset for Kry.gpkg
+2022-09-28 10:03:00,009 Mergin Maps plugin: Unable to detect changes for Kry.gpkg
+2022-09-28 10:03:01,574 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 10:03:01,583 checkpoint - return value: (0, 26, 26)
+2022-09-28 10:03:01,605 checkpoint - new size 106496 checksum cfc323af14d89ba7c94941c15bf49181f4c43f8e
+2022-09-28 10:03:01,605 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 10:03:01,610 checkpoint - return value: (0, 37, 37)
+2022-09-28 10:03:01,621 checkpoint - new size 151552 checksum 4b3f103b17453bbd60142b2c453a20f5903ccae6
+2022-09-28 10:03:01,621 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 10:03:01,626 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:03:01,638 checkpoint - new size 98304 checksum 988108930e2103e5f2e47339febc725e12ba0885
+2022-09-28 10:03:01,638 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 10:03:01,644 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:03:01,655 checkpoint - new size 98304 checksum df9636e18c123bf69ff9d4dcbc48f21d4c062f52
+2022-09-28 10:03:01,655 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 10:03:01,661 checkpoint - return value: (0, 37, 37)
+2022-09-28 10:03:01,672 checkpoint - new size 151552 checksum 13a10aae586fcbdbf7a4bdf21fc9ae1c428cb577
+2022-09-28 10:03:01,680 GEODIFF: GeoPackage Table schemas are not the same for table: Kry
+2022-09-28 10:03:01,680 failed to create changeset for Kry.gpkg
+2022-09-28 10:03:02,000 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 10:03:02,000 --- start pull Sima2498/meranie_GIS
+2022-09-28 10:03:03,405 got project info: local version v43 / server version v43
+2022-09-28 10:03:03,405 --- pull - nothing to do (already at server version)
+2022-09-28 10:03:04,042 --- version: Python-client/0.7.3 Plugin/2022.5 QGIS/3.22.4 (Windows/10)
+2022-09-28 10:03:04,042 --- start push Sima2498/meranie_GIS
+2022-09-28 10:03:05,503 got project info: local version v43 / server version v43
+2022-09-28 10:03:05,831 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Chodníky_curve.gpkg
+2022-09-28 10:03:05,840 checkpoint - return value: (0, 26, 26)
+2022-09-28 10:03:05,861 checkpoint - new size 106496 checksum 0130c519b910d41a4b11b332521630446199b692
+2022-09-28 10:03:05,861 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Kry.gpkg
+2022-09-28 10:03:05,867 checkpoint - return value: (0, 37, 37)
+2022-09-28 10:03:05,879 checkpoint - new size 151552 checksum 5a8024be4d95045d8bdb03b8b3cb62727411a9da
+2022-09-28 10:03:05,879 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Lavičky.gpkg
+2022-09-28 10:03:05,884 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:03:05,896 checkpoint - new size 98304 checksum 96e03c713c53b647cc92f2a9da8095de190f6fa5
+2022-09-28 10:03:05,896 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\Smetné koše.gpkg
+2022-09-28 10:03:05,901 checkpoint - return value: (0, 24, 24)
+2022-09-28 10:03:05,913 checkpoint - new size 98304 checksum a36c5ca8b3dc7175f59c0f3de7b5f83d01d2a640
+2022-09-28 10:03:05,913 checkpoint - going to add it in C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\stromy.gpkg
+2022-09-28 10:03:05,918 checkpoint - return value: (0, 37, 37)
+2022-09-28 10:03:05,930 checkpoint - new size 151552 checksum f03f87b4b5d09774148b2a5fd9ebbfc7114c7f98
+2022-09-28 10:03:05,937 GEODIFF: GeoPackage Table schemas are not the same for table: Kry
+2022-09-28 10:03:05,937 failed to create changeset for Kry.gpkg
+2022-09-28 10:03:05,956 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '5a8024be4d95045d8bdb03b8b3cb62727411a9da',
+              'chunks': ['7dfdf656-cd90-4c62-8259-f12b27de3f2a'],
+              'mtime': datetime.datetime(2022, 9, 28, 10, 3, 1, 606693, tzinfo=tzlocal()),
+              'origin_checksum': '7a119d63f68fdc73c994179a3724cd49cd6ef3ea',
+              'path': 'Kry.gpkg',
+              'size': 151552},
+             {'checksum': 'd61ba43f8393de4539b70ee8b244837bc58ee662',
+              'chunks': ['cbe929a8-6586-4d42-97b2-dd102712d44d'],
+              'mtime': datetime.datetime(2022, 9, 28, 10, 2, 48, 556933, tzinfo=tzlocal()),
+              'origin_checksum': '6fcce900a8f704f853b85b8234b01c5d403dbc1b',
+              'path': 'meranie_GIS.qgz',
+              'size': 14951}]}
+2022-09-28 10:03:05,956 Making a temporary copy (full upload): Kry.gpkg
+2022-09-28 10:03:06,495 got transaction ID cafcb555-06d1-47a4-8dc7-ad56793d1734
+2022-09-28 10:03:06,496 will upload 2 items with total size 166503
+2022-09-28 10:03:06,501 Uploading C:\Users\simon\AppData\Local\Temp\mergin-py-client-jq7sthfy\Kry.gpkg part=0
+2022-09-28 10:03:06,501 Uploading C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz part=0
+2022-09-28 10:03:06,816 Upload finished: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\meranie_GIS.qgz
+2022-09-28 10:03:07,344 Upload finished: C:\Users\simon\AppData\Local\Temp\mergin-py-client-jq7sthfy\Kry.gpkg
+2022-09-28 10:03:07,384 Finishing transaction cafcb555-06d1-47a4-8dc7-ad56793d1734
+2022-09-28 10:03:08,908 updating basefile (copy) for: Kry.gpkg
+2022-09-28 10:03:08,909 GEODIFF: MakeCopySqlite: Removed existing destination database: C:\Users\simon\Desktop\Meracka_GIS\meranie_GIS\meranie_GIS\.mergin\Kry.gpkg
+2022-09-28 10:03:08,927 --- push finished - new project version v44
